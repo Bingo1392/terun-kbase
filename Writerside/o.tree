@@ -3,8 +3,15 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="o"
-                 name="Obecné"
-                 start-page="starter-topic.md">
+                 name="Térun Kbase šablona"
+                 start-page="jak-to-funguje.md">
 
-    <toc-element topic="starter-topic.md"/>
+    <toc-element topic="jak-to-funguje.md"/>
+    <toc-element topic="herni-log.md"/>
+    <toc-element topic="ukoly.md"/>
+    <toc-element topic="cizi-postavy.md"/>
+    <toc-element topic="hracske-postavy.md"/>
+    <toc-element topic="o-svete.md"/>
+    <toc-element topic="monstra.md"/>
+    <toc-element topic="homebrew.md"/>
 </instance-profile>
