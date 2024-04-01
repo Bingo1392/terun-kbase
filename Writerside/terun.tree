@@ -33,10 +33,10 @@
             <toc-element topic="senantska_vira.md"/>
             <toc-element topic="kulty_padlych_senantu.md"/>
             <toc-element topic="druidismus.md"/>
-            <toc-element topic="Elfská-náboženství.md"/>
+            <toc-element topic="elfska_nabozenstvi.md"/>
         </toc-element>
         <toc-element toc-title="artefakty">
-            <toc-element topic="Astrální-zrcadlo.md"/>
+            <toc-element topic="astralni_zrcadlo.md"/>
         </toc-element>
         <toc-element toc-title="monstra">
             <toc-element topic="krel.md"/>
