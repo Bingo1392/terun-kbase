@@ -15,7 +15,3 @@ Tumerie je dvojkontinent (severní Tumerie a jižní Tumerie) lidí a jejich lid
 * Sénantská víra
 * Druidismus
 * Kulty padlých sénantů
-
-## Mapa kontinentu Tumerie
-
-![Mapa_Tumerie](tumerie-mesta.jpg)
