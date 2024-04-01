@@ -1,3 +1,0 @@
-# Úkoly
-
-Start typing here...

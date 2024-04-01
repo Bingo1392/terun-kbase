@@ -1,3 +1,0 @@
-# Cizí postavy
-
-Start typing here...

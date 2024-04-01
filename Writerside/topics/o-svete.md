@@ -1,3 +1,0 @@
-# O světě
-
-Start typing here...

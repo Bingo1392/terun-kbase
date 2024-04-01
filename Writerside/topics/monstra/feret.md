@@ -1,0 +1,3 @@
+# Feret
+
+Nebo také infikovaní hmyzci. Někteří hmyzci se mohou nakazit houbovitou infekcí, která převezme kontrolu nad jejich myslí. Mezi hmyzci se infekce přenáší kousnutím. Vždy existuje královna, která potřebuje konzumovat mozky inteligentních bytostí, aby mohla komunikovat s infikovanými hmyzci. Tato královna je mozkem celého hnízda a komunikuje telepaticky se všemi infikovanými (dokud je dostatečně zásobena inteligentními mozky). Pokud nebude královna zásobena mozky, ztratí kontrolu nad infikovanými. Feretové bez komunikace s královnou jsou velmi hloupí a bezhlaě nepřátelští ke všemu, co se najde v okolí. Pro Blukry a Verxe jsou Feretové největší nepřátelé.
