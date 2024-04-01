@@ -6,4 +6,16 @@
         <accepts>page.html</accepts>
     </rule>
     -->
+    <rule id="7cfab5d1">
+        <description>Created after removal of "Astrální zrcadlo" from Svět Térun</description>
+        <accepts>astralni_zrcadlo.html</accepts>
+    </rule>
+    <rule id="6045239a">
+        <description>Created after removal of "Licence" from Svět Térun</description>
+        <accepts>LICENSE.html</accepts>
+    </rule>
+    <rule id="2bea6849">
+        <description>Created after removal of "Térun" from Svět Térun</description>
+        <accepts>README.html</accepts>
+    </rule>
 </rules>
