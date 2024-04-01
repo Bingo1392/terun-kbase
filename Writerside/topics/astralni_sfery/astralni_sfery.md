@@ -14,15 +14,13 @@ Když zahyne bytost v materiálním světě, odejde z ní její duše. Tato duš
 
 Ve sférách žijí bytosti, které často mívají nějaký účel. Některé interagují s dušemi bytostí z materiální sféry, jiné si žijí vlastním životem.
 
-## Projevy astrálních sfér
+## Spojitost
 
 Astrální sféry mají dopad na materiální svět. Především se jedná o přítomnost magie. S tím souvisí ale i další a mnohem zajímavější dopad, kterým je Spojitost.
 
-### Spojitost
+Spojitost se projevuje dvěma způsoby. Pokud převládá v oblasti nějaká emoce či aspekt, může se objevit astrální trhlina, která dovolí astrálním bytostem, zosobňujícím tuto emoci nebo aspekt dostat se do materiálního světa.
 
-Spojitost se projevuje dvěmi způsoby. Pokud převládá v oblasti nějaká emoce či aspekt, může se objevit astrální trhlina, která dovolí astrálním bytostem, zosobňujícím tuto emoci nebo aspekt dostat se do materiálního světa.
-
-Pokud tedy bude například království, které si užívá blahobytu a mnohé veselí, mohou se v oblasti objevovat jednorožci a jiné obecně hodné a veselé bytosti. Na druhou stranu v oblasti zužovaných hladomory, nemocemi, beznadějí a smrtí, budou zde povstávat nemrtví.
+Pokud tedy bude například království, které si užívá blahobytu a mnohé veselí, mohou se v oblasti objevovat jednorožci a jiné obecně hodné a veselé bytosti. Na druhou stranu v oblasti zužovaných hladomory, nemocemi, beznadějí a smrtí, budou povstávat nemrtví.
 
 Dalším projevem Spojitosti je nadměrná nasycenost magií. Pokud je na nějakém území proveden rituál nebo série rituálů, které vyžadují velké množství jednoho druhu magické energie, je vysoká pravděpodobnost, že se objeví v oblasti astrální trhliny, které dovolí astrálním bytostem proudit do materiálního světa.
 
@@ -38,29 +36,33 @@ Poslední možností je likvidace všech astrálních bytostí v oblasti a změn
 
 Cestování sférami je možné. Dokonce většina přemisťovacích kouzel využívá astrálních sfér. K cestování je nutné otevřít nejdříve trhlinu. Trhlina však láká astrální bytosti, proto musí být trhlina co nejrychleji uzavřena. U kouzel ovlivňující časoprostor musí často čarodějové určit, kolik předmětů nebo bytostí má být přemístěno, aby neotevírali zbytečně velkou astrální trhlinu. Neopatrné užívání časoprostorové magie může vést k tvorbě obrovských astrálních trhlin.
 
+## Více o astrálních sférách
+
 Každá z Astrálních sfér byla stvořena takzvaným Astrálním Lordem. Astrální lordi jsou mocná stvoření, mocnější než Sénanti, která za tisíciletí byla schopna stvořit vlastní světy s vlastními pravidly. Každý astrální lord má nějaký dopad na materiální svět a k tomuto účelu stvořil i astrální svět a jeho bytosti.
 
 Astrální lord dohlíží na to, aby byl jeho aspekt v životě smrtelníků naplněn. Ačkoliv jsou astrální lordi v podstatě nejmocnější bytosti v kosmu, uvědomují si, že jsou to právě oni, kdo nějakým způsobem drží pravidla kosmu pohromadě. I když mezi nimi probíhají různé intrikářské štvanice, jsou si natolik blízcí, že by si navzájem skutečně neublížili. Jedná se tedy spíše o takové naschvály, které si navzájem činí - hlavně ze sportu, aby se neunudili.
 
-Pomocí magie je možné zhmotnit astrální bytost ve fyzickém světě. Je k tomu však potřeba určité množství materiálu, pokud má astrální bytost získat fyzickou podobu. Je zapotřebí takový materiál, ze kterého se má tělo astrální bytosti stvořit. U velkého množství bytostí se jedná o biomasu v odpovídajícím váhovém množství. U elementálů se jedná o menší množství daného elementu. V opačném případě se nemůže taková bytost zhmotnit a vstup do materiální sféry se nezdaří.
-
-Ve většině astrálních sfér platí podobná pravidla jako v materiální sféře. Funguje zde gravitace se všemi následky - tedy je možné, aby duše někam spadla a zranila se. Je možné si udělat krvácivé zranění, a v podstatě vykrvácet. Cesta náročným terénem tělo unaví. Vlivy počasí mohou způsobit omrzliny či popáleniny. Duše mají hlad, pokud standardně nekonzumují jídlo. Zkrátka od materiálního světa může být těžké rozeznat to, že je postava v astrální sféře.
+Ve většině astrálních sfér platí podobná pravidla jako v materiální sféře. Funguje zde gravitace se všemi následky - tedy je možné, aby postava někam spadla a zranila se. Je možné si udělat krvácivé zranění, a v podstatě vykrvácet. Cesta náročným terénem tělo unaví. Vlivy počasí mohou způsobit omrzliny či popáleniny. Duše mají hlad, pokud standardně nekonzumují jídlo. Zkrátka od materiálního světa může být těžké rozeznat to, že je postava v astrální sféře.
 
 Rozdíl však existuje. Postava nemůže v astrální sféře zemřít na hlad ani vyčerpání. Získá sice všechny postihy s tím spojené, ale nemůže to být pro postavu fatální.
 
-Inteligence je v astrálním světě králem. Kdykoliv si postava musí hodit na ověření, přičítá si kromě standardního atributu i bonus/postih za inteligenci. Navíc opravdu inteligentní jedinci jsou schopni všechny negativní dopady negovat tím, že jejich mysl se povznese nad konkrétní potřebu nebo překážku. Znamená to vždy nějaký hod na ověření inteligence. Pokud postava uspěje, může ignorovat všechny záporné efekty, které na ni sféra má.
+Inteligence je v astrálním světě králem. Opravdu inteligentní jedinci jsou schopni všechny negativní dopady negovat tím, že jejich mysl se povznese nad konkrétní potřebu nebo překážku.
+
+> Kdykoliv si postava musí hodit na ověření vlastnosti, přičítá si kromě standardního atributu i bonus/postih za inteligenci. Sféra může mít na cestovatele vliv. Pokud cestovatel uspěje v hodu na ověření inteligence, může ignorovat všechny záporné efekty, které na ni sféra má.
 
 ## Nudiel země smrti a stínů
 
 * Kolteš paní života a smrti
+* Aspekt smutku, beznaděje, odevzdanosti, hladu, nemoci, ponurosti, smrti, slabosti.
 * Upíři a nemrtví
 * Vitální magie
 
-Do Nudielu dorazí všechny duše inteligentních tvorů po smrti. Jedná se o pustou skalnatou zemi, kterou obývají nemrtví a především upíři, kteří vládnou tomuto světu. Upíři mají za úkol ochutnat esenci příchozích duší a na základě chuti určit, zda má duše pokračovat dále do Vendarielu, Kanameiry nebo do Abordey. Když duše, nebo nemrtvý zemře v Nudielu, je jeho duše/existence nadobro zničena.
+Do Nudielu dorazí všechny duše inteligentních tvorů po smrti. Jedná se o pustou skalnatou zemi, kterou obývají nemrtví a především upíři, kteří vládnou tomuto světu. Upíři mají za úkol ochutnat esenci příchozích duší a na základě chuti určit, zda má duše pokračovat dále do Vendarielu, Kanameiry nebo do Abordey. Duše nemůže v Nudielu zemřít - může být pouze uvězněna.
 
 ## Vendariel země harmonie a přání
 
 * Kolteš paní života a smrti
+* Aspekt naděje, života, zrození, ochrany, síly, zdraví, radosti, harmonie
 * Andělé
 * Ochranná magie
 
@@ -69,6 +71,7 @@ Vendariel je jakýmsi nebem. Když je duše hodna Vendarielu, přichází sem ma
 ## Abordea země nářků
 
 * Halis paní touhy, neřesti a utrpení
+* Aspekt neřesti, podvodů, intrikaření, zrady, utrpení, touhy, pýchy, trestu, mučení.
 * Ďáblové
 * Magie proměn
 
@@ -79,6 +82,7 @@ Na Abordee žijí ďáblové v pevné hierarchii, kteří naplňují své touhy 
 ## Kanameira věčné loviště
 
 * Lykanis pán Lovu
+* Aspekt instinktu, lovu, přežití, surovosti, volnosti, anarchie, divokosti.
 * Kentauři
 * Přírodní magie
 
@@ -87,6 +91,7 @@ Aspekt lovu a chtíče přežít. Do věčného loviště míří duše neinteli
 ## Istriel snová sféra
 
 * Oryn pán iluzí a snů
+* Aspekt bázlivosti, iluzí, snů, troufalých cílů, nočních můr, pohádek, hororu.
 * Víly
 * Mentální magie
 
@@ -95,6 +100,7 @@ Aspekt snů, vizí a troufalých cílů. V Istrielu je vše možné a sny všemo
 ## Heliria živlová sféra
 
 * Velfr pán chaosu
+* Aspekt chaosu, ničení, nestálosti, zuřivosti, šílenosti
 * Elementálové
 * Divoká magie
 
@@ -105,6 +111,7 @@ Pokud se náhodou dostane duše do této sféry a zahyne, je nadobro zničena. N
 ## Gulemeria sféra cest
 
 * Gorlin pán osudu
+* Aspekt volby, osudu, vědění
 * Vysoká magie
 
 Na cestách je možné vidět možné scénáře, které se stanou, pokud se návštěvník vydá určitou cestou.
