@@ -119,9 +119,10 @@ Osud je nejstarší ze všech Astrálních lordů. To osud určil, jaké úlohy 
 
 ## Dejdenyr mnohovesmírná sféra
 
-* Utecht paní šílenství
+* Utecht paní vyšší dimenze
+* Aspekt nepoznaného, tajemství, nepochopení, záhady, monstrozity.
 * Démoni astrálních sfér
 
-Mnohovesmírná sféra je sféra, kde může kolidovat několik naprosto bizardních světů do sebe. Neexistují zde jasné zákony. Oproti této sféře má živelná sféra (sféra chaosu) nějaká základní pravidla. Jelikož jsou mnohosvěty bizardními místy, žijí zde i bizardní stvoření. Jejich úloha je nejasná - většinou zde prostě žijí a je jim dopřán nějaký podivný ekosystém fauny a flory. Jednotlivé kolidující světy a jejich zákony bývají výtvorem samotné Utecht či následkem působení bytostí zvaných démoni astrálních sfér. Když se dostane duše do některého ze světů mnohovesmíru, Utecht to většinou nezajímá a záleží na podstatě prostředí jestli duše přežije či nikoliv. Pokud však nepřežije, objeví se v Nudielu, jakoby její tělo zemřelo v materiální sféře. Zrůdy z mnohovesmíru nemají duši a když zahynou, jsou prostě zničeny.
+Mnohovesmírná sféra je sféra, kde může kolidovat několik naprosto bizardních světů do sebe. Neexistují zde jasné zákony, respektive zde neexistují pravidla jednoduše pobratelné bytostmi žijícími v trojrozměrném prostoru. Jelikož jsou mnohosvěty bizardními místy, žijí zde i bizardní stvoření. Jejich úloha je nejasná - většinou zde prostě žijí a je jim dopřán nějaký podivný ekosystém fauny a flory. Jednotlivé kolidující světy a jejich zákony bývají výtvorem samotné Utecht či následkem působení bytostí zvaných démoni astrálních sfér. Když se dostane duše do některého ze světů mnohovesmíru, Utecht to většinou nezajímá a záleží na podstatě prostředí jestli duše přežije či nikoliv. Pokud však nepřežije, objeví se v Nudielu, jakoby její tělo zemřelo v materiální sféře. Zrůdy z mnohovesmíru nemají duši a když zahynou, jsou prostě zničeny.
 
-Mnohovesmír je formován kromě samotné Utecht i bytostmi zvanými démoni astrálních sfér. Tito démoni mohou projevovat různou dávku inteligence. Každý z nich může mít i jinou motivaci a jiný cíl. Démoni jsou vyhledávané bytosti především Theurgy, kteří je dokáží zaklít do předmětů. Tyto předměty pak získají magické schopnosti, které jsou propůjčené démonem.
+Mnohovesmír je formován kromě samotné Utecht i bytostmi zvanými démoni astrálních sfér. Tito démoni mohou projevovat různou dávku inteligence. Každý z nich může mít i jinou motivaci a jiný cíl. Démoni jsou alchymisty vyhledávané bytosti. Alchymisté dokáží lapit démony do předmětu. Tyto předměty pak získají magické schopnosti, které jsou propůjčené démonem.
