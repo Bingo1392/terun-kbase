@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="hi" name="Svět Térun"
+                 start-page="README.md">
+
+    <toc-element topic="README.md"/>
+    <toc-element toc-title="Mytologie">
+        <toc-element topic="zakladni_konflikt.md"/>
+        <toc-element topic="senanti.md"/>
+        <toc-element topic="pocatek.md"/>
+        <toc-element topic="myticke_artefakty.md"/>
+        <toc-element topic="magie.md"/>
+        <toc-element topic="kosmos_terun.md"/>
+        <toc-element topic="bytosti.md"/>
+    </toc-element>
+    <toc-element toc-title="Astrální sféry">
+        <toc-element topic="astralni_sfery.md"/>
+        <toc-element topic="nudiel.md"/>
+        <toc-element topic="vendariel.md"/>
+        <toc-element topic="abordea.md"/>
+        <toc-element topic="kanameira.md"/>
+        <toc-element topic="istriel.md"/>
+        <toc-element topic="heliria.md"/>
+        <toc-element topic="gulemeria.md"/>
+        <toc-element topic="dejdenyr.md"/>
+    </toc-element>
+    <toc-element toc-title="Astarog">
+        <toc-element topic="zdroje_bohatstvi.md"/>
+        <toc-element topic="rasy.md"/>
+        <toc-element toc-title="nabozenstvi">
+            <toc-element topic="prehled_nabozenstvi.md"/>
+            <toc-element topic="senantska_vira.md"/>
+            <toc-element topic="kulty_padlych_senantu.md"/>
+            <toc-element topic="druidismus.md"/>
+            <toc-element topic="Elfská-náboženství.md"/>
+        </toc-element>
+        <toc-element toc-title="artefakty">
+            <toc-element topic="Astrální-zrcadlo.md"/>
+        </toc-element>
+        <toc-element toc-title="monstra">
+            <toc-element topic="krel.md"/>
+            <toc-element topic="feret.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element toc-title="Homebrew Dračí Hlídka">
+        <toc-element topic="nulte_sezeni.md"/>
+        <toc-element topic="vyber_rasy.md"/>
+        <toc-element topic="unava.md"/>
+        <toc-element topic="nalozeni.md"/>
+        <toc-element topic="moralka.md"/>
+        <toc-element topic="magicke_predmety.md"/>
+        <toc-element topic="akce_a_situace.md"/>
+        <toc-element topic="uroven_obyvatel.md"/>
+    </toc-element>
+    <toc-element toc-title="Nápady a myšlenky">
+        <toc-element topic="tvorba_frakce.md"/>
+        <toc-element topic="rizeni_frakci.md"/>
+        <toc-element topic="nova_rasa_nevidenych.md"/>
+        <toc-element topic="navrat_z_dobrodruzstvi.md"/>
+        <toc-element topic="mezidobi.md"/>
+        <toc-element topic="frakce.md"/>
+        <toc-element topic="aplikace_pravidel_JaD.md"/>
+        <toc-element topic="aplikace_pravidel_DrH.md"/>
+        <toc-element toc-title="nabozenstvi">
+            <toc-element topic="vzyvani_krelu.md"/>
+            <toc-element topic="uceni_xang.md"/>
+            <toc-element topic="orynovo_uceni.md"/>
+            <toc-element topic="orynovi_deti.md"/>
+            <toc-element topic="nasledovani_torza.md"/>
+            <toc-element topic="magicky_kruh.md"/>
+        </toc-element>
+        <toc-element toc-title="tumerie">
+            <toc-element topic="tumerie.md"/>
+            <toc-element topic="zavrikani.md"/>
+            <toc-element topic="skalove.md"/>
+            <toc-element topic="okleani.md"/>
+            <toc-element topic="korinci.md"/>
+            <toc-element topic="baladorane.md"/>
+        </toc-element>
+    </toc-element>
+    <toc-element topic="LICENSE.md"/>
+    <toc-element topic="astralni_zrcadlo.md"/>
+</instance-profile>

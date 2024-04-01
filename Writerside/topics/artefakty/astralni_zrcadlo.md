@@ -1,0 +1,2 @@
+# Astrální zrcadlo
+
