@@ -10,7 +10,7 @@ obecně jsou tyto subsféry obydleny dvěma druhy bytostí. Prvním jsou zrůdy 
 
 Samotný vzhled subsféry může být značnou měrou ovlivněn démony, kteří jí obývají.
 
-Astrálním lordem Dejdenyru je Utecht, zvaná také jako šílenství. Utecht se moc nestará o to, co se děje v jejích subsférách a pokud dorazí nějaká nezvaná duše do jedné ze subsfér, nechává jí to absolutně chladnou.
+Astrálním lordem Dejdenyru je Utecht. Utecht se moc nestará o to, co se děje v jejích subsférách a pokud dorazí nějaká nezvaná duše do jedné ze subsfér, nechává jí to absolutně chladnou.
 
 Když duše v Dejdenyru zemře, přetrhne se spojení mezi duší a tělem. Duše pak pokračuje standardně do Nudielu.
 
