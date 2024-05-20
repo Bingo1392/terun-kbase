@@ -6,6 +6,7 @@
                   start-page="zakladni_konflikt.md">
 
     <toc-element toc-title="Mytologie">
+        <toc-element topic="kosmicke-principy.md"/>
         <toc-element topic="zakladni_konflikt.md"/>
         <toc-element topic="senanti.md"/>
         <toc-element topic="pocatek.md"/>
