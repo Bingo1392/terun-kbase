@@ -364,7 +364,7 @@ PPP:
 
 Ve světě Astarogu se vládcové přetahují nad tím, kdo z nich bude mít úrodnější a výnosnější léno. Následující zdroje bohatství toto přinášejí.
 
-* Krystaly many
+* Krystaly
   * Almazit
   * Kalaznát
   * Aterist

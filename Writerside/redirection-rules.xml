@@ -18,4 +18,8 @@
         <description>Created after removal of "Térun" from Svět Térun</description>
         <accepts>README.html</accepts>
     </rule>
+    <rule id="730471c1">
+        <description>Created after removal of "Představení" from Svět Térun</description>
+        <accepts>predstaveni.html</accepts>
+    </rule>
 </rules>

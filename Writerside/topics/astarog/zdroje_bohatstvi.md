@@ -1,6 +1,6 @@
 # Zdroje bohatství
 
-## Krystaly many
+## Krystaly
 
 ![Krajina Istrielu](magicky_krystal.png)
 
