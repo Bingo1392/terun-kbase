@@ -36,6 +36,12 @@ Poslední možností je likvidace všech astrálních bytostí v oblasti a změn
 
 Cestování sférami je možné. Dokonce většina přemisťovacích kouzel využívá astrálních sfér. K cestování je nutné otevřít nejdříve trhlinu. Trhlina však láká astrální bytosti, proto musí být trhlina co nejrychleji uzavřena. U kouzel ovlivňující časoprostor musí často čarodějové určit, kolik předmětů nebo bytostí má být přemístěno, aby neotevírali zbytečně velkou astrální trhlinu. Neopatrné užívání časoprostorové magie může vést k tvorbě obrovských astrálních trhlin.
 
+## Krystaly a Astrální trhliny
+
+V blízkosti astrálních trhlin je ideální prostředí pro tvorbu a růst krystalů. Krystaly jsou velmi dobrý a stabilní zdroj magické energie. Existují oblasti, kde jsou schválně astrální trhliny udržovány, aby v okolí rostly tyto vzácné zdroje.
+
+Jedná se o velmi výnosný a nebezpečný zdroj obživy. Díky krystalům a moci v nich se totiž vyhrávají války.
+
 ## Více o astrálních sférách
 
 Každá z Astrálních sfér byla stvořena takzvaným Astrálním Lordem. Astrální lordi jsou mocná stvoření, mocnější než Sénanti, která za tisíciletí byla schopna stvořit vlastní světy s vlastními pravidly. Každý astrální lord má nějaký dopad na materiální svět a k tomuto účelu stvořil i astrální svět a jeho bytosti.
