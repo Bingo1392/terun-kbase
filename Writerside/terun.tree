@@ -6,7 +6,6 @@
                   start-page="zakladni_konflikt.md">
 
     <toc-element toc-title="Mytologie">
-        <toc-element topic="kosmicke-principy.md"/>
         <toc-element topic="zakladni_konflikt.md"/>
         <toc-element topic="senanti.md"/>
         <toc-element topic="pocatek.md"/>
@@ -17,6 +16,8 @@
     </toc-element>
     <toc-element topic="terun.md"/>
     <toc-element toc-title="Astrální sféry">
+        <toc-element topic="kosmicke-principy.md"/>
+        <toc-element topic="Kosmické-principy-a-astrální-sféry.md"/>
         <toc-element topic="astralni_sfery.md"/>
         <toc-element topic="nudiel.md"/>
         <toc-element topic="vendariel.md"/>
