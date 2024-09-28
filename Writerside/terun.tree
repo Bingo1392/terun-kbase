@@ -15,6 +15,9 @@
         <toc-element topic="bytosti.md"/>
     </toc-element>
     <toc-element topic="terun.md"/>
+    <toc-element topic="velka-hra.md">
+        <toc-element topic="Střet-armád.md"/>
+    </toc-element>
     <toc-element toc-title="Astrální sféry">
         <toc-element topic="kosmicke-principy.md"/>
         <toc-element topic="Kosmické-principy-a-astrální-sféry.md"/>
