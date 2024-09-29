@@ -16,6 +16,8 @@
     </toc-element>
     <toc-element topic="terun.md"/>
     <toc-element topic="velka-hra.md">
+        <toc-element topic="armady.md"/>
+        <toc-element topic="ekonomie.md"/>
         <toc-element topic="Střet-armád.md"/>
     </toc-element>
     <toc-element toc-title="Astrální sféry">
