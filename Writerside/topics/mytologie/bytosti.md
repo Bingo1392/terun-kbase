@@ -1,6 +1,6 @@
 # Bytosti
 
-Bytosti jsou rozděleny na 2 tábory. Ty s duší a ty bez duše. Bytosti s duší jsou v podstatě nezničitelné. Pokud zemřou, jejich duše odchází na buď na Kalakus nebo do astrálních sfér. Oproti bytostem bez duše je daleko složitější je vytvořit. Bytosti bez duše jsou nadobro zničeny, pokud jejich tělo zemře nebo je jakkoliv zničeno.
+Bytosti jsou rozděleny na 2 tábory. Ty s duší a ty bez duše. Bytosti s duší jsou v podstatě nezničitelné. Pokud zemřou, jejich duše odchází na Kalakus (platí pro ty, co věří v Sénanty) nebo do astrálních sfér. Oproti bytostem bez duše je daleko složitější je vytvořit. Bytosti bez duše jsou nadobro zničeny, pokud jejich tělo zemře nebo je jakkoliv zničeno.
 
 Problémem bytostí bez duše je to, že nemají o nikoho strach a nezajímají se o ostatní. Jejich jediný zájem jsou oni sami. Pro bytosti s duší se mohou bytosti bez duše zdát chladné a zlé.
 
@@ -20,7 +20,7 @@ Má se však za to, že stejně jako Tér, tak i Una na sebe dokáže vzít jako
 
 ## Bytosti s duší
 
-Bytosti s duší mají schopnost strachovat se o ostatní a myslet na obecné dobro. Ne, že by všechny bytosti s duší museli této možnosti využívat, ale jsou toho schopny. Duše takové bytosti pak může cestovat astrálními sférami.
+Bytosti s duší mají schopnost strachovat se o ostatní a myslet na obecné dobro. Ne, že by všechny bytosti s duší musely této možnosti využívat, ale jsou toho schopny. Duše takové bytosti pak může cestovat astrálními sférami.
 
 ### Sénanti
 
@@ -64,19 +64,3 @@ Drakem se může nenávratně stát jakýkoliv sénant, ale při přeměně při
 
 V dávných dobách byla proměna v draka ultimátním trestem pro největší zvrhlíky mezi sénanty. Nyní se již tyto tresty neužívají. Většina draků tedy může být lstivých a zlých, ale k nositeli prstenu si nemohou nic dovolit a musí plnit všechny jeho rozkazy.
 
-Jednotlivé typy draků jsou popsány v bestiáři Pravidel Dračí Hlídky (PPP).
-
-### Orkové
-
-![Orkove](ork.png)
-
-Znetvořené bytosti bez duše.
-Jejich přirozenost je ubližovat jiným a to jak fyzicky, tak psychicky.
-Žijí na Doranu, kde mučí zkažené duše a pak jimi krmí uvězněné sénanty.
-
-Orkové mají magickou schopnost zmocnit se duchů.
-Díky tomu dokáží pomocí myšlenek duševně, ale i fyzicky mučit tyto duše.
-
-Orkové jsou vyobrazování jako netvorní humanoidé šedivé až černé pleti. Stejně tmavá je i jejich krev.
-
-Orkové se nerodí, ale je nutné je vytesat z tajemného kamene Orkanu, který je možné najít pouze na Doranu. Následně je nutné takto vytesanou postavu hodit do Doranského ohně - takto vznikne nový Ork.

@@ -20,7 +20,7 @@ Pouhý dotek může smrtelníka spálit na uhel.
 
 Jedná se o velmi silnou a nestabilní manu samotného slunce. Tato mana určuje základní principy a pravidla materiálního světa. Někteří sénanti jsou schopni éterickou manu v omezené míře užívat, ale i pro ně se jedná o velmi těžký obor.
 
-Pomocí éterické many jsou schopni bohové svým klerikům dodávat svoji přízeň a tak i moc. Nepřímo jsou tedy i klerikové uživatelé éterické many.
+Pomocí éterické many jsou schopni bohové svým následovníkům propůjčovat svoji magickou moc. Nepřímo jsou tedy i následovníci bohů uživatelé éterické many.
 
 Bohové mohou povstat pouze z bytostí schopných éterickou manu užívat, proto nejžhavějšími adepty jsou právě Sénanti.
 

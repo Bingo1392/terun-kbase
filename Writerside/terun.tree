@@ -5,6 +5,27 @@
 <instance-profile id="terun" name="Svět Térun"
                   start-page="zakladni_konflikt.md">
 
+    <toc-element topic="terun.md">
+        <toc-element topic="bytosti.md"/>
+        <toc-element toc-title="Astarog">
+            <toc-element topic="zdroje_bohatstvi.md"/>
+            <toc-element topic="rasy.md"/>
+            <toc-element toc-title="nabozenstvi">
+                <toc-element topic="prehled_nabozenstvi.md"/>
+                <toc-element topic="senantska_vira.md"/>
+                <toc-element topic="kulty_padlych_senantu.md"/>
+                <toc-element topic="druidismus.md"/>
+                <toc-element topic="elfska_nabozenstvi.md"/>
+            </toc-element>
+            <toc-element toc-title="artefakty">
+                <toc-element topic="astralni_zrcadlo.md"/>
+            </toc-element>
+            <toc-element toc-title="monstra">
+                <toc-element topic="krel.md"/>
+                <toc-element topic="feret.md"/>
+            </toc-element>
+        </toc-element>
+    </toc-element>
     <toc-element toc-title="Mytologie">
         <toc-element topic="zakladni_konflikt.md"/>
         <toc-element topic="senanti.md"/>
@@ -12,13 +33,6 @@
         <toc-element topic="myticke_artefakty.md"/>
         <toc-element topic="magie.md"/>
         <toc-element topic="kosmos_terun.md"/>
-        <toc-element topic="bytosti.md"/>
-    </toc-element>
-    <toc-element topic="terun.md"/>
-    <toc-element topic="velka-hra.md">
-        <toc-element topic="armady.md"/>
-        <toc-element topic="ekonomie.md"/>
-        <toc-element topic="Střet-armád.md"/>
     </toc-element>
     <toc-element toc-title="Astrální sféry">
         <toc-element topic="kosmicke-principy.md"/>
@@ -33,23 +47,10 @@
         <toc-element topic="gulemeria.md"/>
         <toc-element topic="dejdenyr.md"/>
     </toc-element>
-    <toc-element toc-title="Astarog">
-        <toc-element topic="zdroje_bohatstvi.md"/>
-        <toc-element topic="rasy.md"/>
-        <toc-element toc-title="nabozenstvi">
-            <toc-element topic="prehled_nabozenstvi.md"/>
-            <toc-element topic="senantska_vira.md"/>
-            <toc-element topic="kulty_padlych_senantu.md"/>
-            <toc-element topic="druidismus.md"/>
-            <toc-element topic="elfska_nabozenstvi.md"/>
-        </toc-element>
-        <toc-element toc-title="artefakty">
-            <toc-element topic="astralni_zrcadlo.md"/>
-        </toc-element>
-        <toc-element toc-title="monstra">
-            <toc-element topic="krel.md"/>
-            <toc-element topic="feret.md"/>
-        </toc-element>
+    <toc-element topic="velka-hra.md">
+        <toc-element topic="armady.md"/>
+        <toc-element topic="ekonomie.md"/>
+        <toc-element topic="Střet-armád.md"/>
     </toc-element>
     <toc-element toc-title="Homebrew Dračí Hlídka">
         <toc-element topic="nulte_sezeni.md"/>
