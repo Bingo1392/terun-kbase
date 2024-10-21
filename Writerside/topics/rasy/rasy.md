@@ -47,24 +47,18 @@ Této symbiózy využívají jiní démoni astrálních sfér. Říkají si Krel
 
 Ženy Kremenů mají hlavně úlohu obstarání dětí a domácnosti. Je mezi nimi normální, že jeden mocný Kremen může mít harém několika Kremenek či konkubín. Takový muž může mít desítky potomků. Důsledkem je sociální problém v tom, že na některé Kremeny prostě nevyzbydou ženy. To napomáhá k radikalizaci a soudružnosti se svými bratry. V neposlední řadě také k sexuálním aktivitám mezi muži, které je mezi Kremeny velmi rozšířené a normální.
 
-### Tistaré
+### Altakové
 
-![Tistarové](tistar.png)
+![Altakové](tistar.png)
 
-Tistaré jsou velmi teritoriální a nepřátelští lidé, kteří zasvětili svůj život kočovnému stylu života. Nárok na svá území berou velmi vážně a jakýkoliv vstup na jejich území si vykládají jako válečný akt.
-Tistaré mívají tmavé oči i vlasy. Dokonce i jejich pokožka je v určitém smyslu opálenější, než u jejich příbuzných. Je to dáno jejich životem v sedle.
+Altakové jsou velmi teritoriální a nepřátelští lidé, kteří zasvětili svůj život kočovnému stylu života. Nárok na svá území berou velmi vážně a jakýkoliv vstup na jejich území si vykládají jako válečný akt.
+Altakové mívají tmavé oči i vlasy. Dokonce i jejich pokožka je v určitém smyslu opálenější, než u jejich příbuzných. Je to dáno jejich životem v sedle.
 
-Tistaré jsou známí tím, že jsou skvělí lovci a stopaři. Také jsou skvělými pastevci. Jejich hlavním vývozním artiklem bývají kožešiny ulovených zvířat či vlna domestikovaných ovcí či koz.
+Altakové jsou známí tím, že jsou skvělí lovci a stopaři. Také jsou skvělými pastevci. Jejich hlavním vývozním artiklem bývají kožešiny ulovených zvířat či vlna domestikovaných ovcí či koz.
 
-Pro tistary je jejich čest vším. Stejně tak jejich kmen. Různé urážky si berou velmi osobně a ti, co se nechovají dle jejich tradic urážejí majestát jejich vůdců, což může vézt k prolití krve. Jakékoliv politické smlouvy mezi tistary a jinými národy bývají proto vždy křehké.
+Pro altaky je jejich čest vším. Stejně tak jejich kmen. Různé urážky si berou velmi osobně a ti, co se nechovají dle jejich tradic urážejí majestát jejich vůdců, což může vézt k prolití krve. Jakékoliv politické smlouvy mezi altaky a jinými národy bývají proto vždy křehké.
 
 ## Skřítci
-
-> TODO
-> - Dořešit rozmnožování (rozdíl mezi mužem a ženou?) - srdce hvozdu - magický strom zrozený za slunovratu
-> - Dořešit jejich magii
-> - Dořešit zda jsou vůbec smrtelníci či nikoliv
-> - Dořešit rozdílnou ekonomiku společnosti (předpokládám, že nepěstují obilí, aby se uživili)
 
 Skřítci jsou asi poloviční jak lidé. Mají vlasy černých nebo naopak bílých barev a špičaté uši. Oproti lidem mají v poměru k jejich tělu také velmi velké oči, které jim pomáhají s viděním za šera.
 
@@ -80,16 +74,29 @@ V době úpadku se skřítci združují v malých komunitách o pár desítkách
 
 Skřítci jsou původem astrální bytosti, které přišly do materiální sféry před stovkami let. Díky tomu mají modrou krev nasycenou magií. Každý skřítek tedy dokáže nějakým způsobem kouzlit. Pro jejich magickou krev jsou však loveni, jelikož se jedná o vzácnou magickou surovinu.
 
+Tím, že jsou skřítci původem astrální bytosti, jsou jejich životní potřeby jiné od ostatních smrtelníků.
+
+Jsou sice smrtelní a stárnou, ale oproti lidem o dost pomaleji. Obecně jejich styl života je dost pomalejší a také jejich jazyk je velmi košatý a věty velmi dlouhé. Jejich rozpravy i nad banalitami mohou trvat hodiny až dny. Některé politické debaty mohou trvat i týdny.
+
+Rozmnožování u skřítků funguje tak, že nejdříve musí být skřítčí žena magicky požehnána světlem ze svatého stromu, který je v srdci hvozdu. Takto požehnané skřítčici světélkují oči. Následně může být oplodněna standardním způsobem, jako je tomu u lidí. Svatý strom dokáže požehnat pouze omezeně krát. Záleží na velikosti a zdraví hvozdu.
+
+Skřítčí muž a skřítčí žena jsou si oddáni po celý život a neexistuje u nich koncept jako nevěra. Naopak, pokud jeden z páru zemře, začne zdraví druhého rychle chřadnout.
+
+Pro skřítčí společnost není jídlo klíčovým aspektem k přežití. Jíst musejí, ale nejí velké porce. Jejich magie je hodně zaměřena na růst plodin a vystačí si s menšími květináči všeho možného. V okolí skřítčích měst lze najít políčka, ale nikdy v takovém rozsahu, jako lidská města.
+
+Klíčové pro přežití skřítčí společnosti jsou hvozdy, jejich rozloha a také zdraví. Život skřítků je v podstatě o starání se o zdraví hvozdu. Temné síly či jiné civilizace mohou harmonii hvozdu narušit a skřítci musí s těmito vnějšími silami bojovat.
+
+
 | Etapa života     | Věk           |
 |------------------|---------------|
-| Novorozenec      | 0 - 18 měsíců |
-| Dětství          | 2 - 13 let    |
-| Puberta          | 14 - 20 let   |
-| Dospělost        | 21 - 44 let   |
-| Střední věk      | 45 - 70 let   |
-| Stáří            | 71+ let       |
-| Průměrné dožití  | 90 let        |
-| Maximální dožití | 150 let       |
+| Novorozenec      | 0 - 5 let     |
+| Dětství          | 6 - 20 let    |
+| Puberta          | 21 - 45 let   |
+| Dospělost        | 46 - 150 let  |
+| Střední věk      | 151 - 250 let |
+| Stáří            | 251+ let      |
+| Průměrné dožití  | 300 let       |
+| Maximální dožití | 400 let       |
 
 ### Mandi
 
