@@ -1,5 +1,9 @@
 # Armády
 
+Mluvíme-li o armádě, máme na mysli jakoukoliv vojenskou sílu. Může se jednat o posádku hradu, opevnění, lodi, či volně stojící vojsko.
+
+## Pohyb
+
 ## Postavení armády
 
 - Pochod
@@ -7,6 +11,10 @@
 - Přepadení
 - Drancování
 - Opevnění
+
+## Zásobování armády
+
+Každá armáda musí jíst, nocovat, opravovat své 
 
 ## Organizace
 

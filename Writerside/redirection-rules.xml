@@ -22,4 +22,8 @@
         <description>Created after removal of "Představení" from Svět Térun</description>
         <accepts>predstaveni.html</accepts>
     </rule>
+    <rule id="3bd368a8">
+        <description>Created after removal of "Elfská náboženství" from Svět Térun</description>
+        <accepts>elfska_nabozenstvi.html</accepts>
+    </rule>
 </rules>

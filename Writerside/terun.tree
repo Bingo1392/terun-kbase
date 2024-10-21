@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="terun" name="Svět Térun"
-                  start-page="zakladni_konflikt.md">
+                  start-page="terun.md">
 
     <toc-element topic="terun.md">
         <toc-element topic="bytosti.md"/>
@@ -15,7 +15,6 @@
                 <toc-element topic="senantska_vira.md"/>
                 <toc-element topic="kulty_padlych_senantu.md"/>
                 <toc-element topic="druidismus.md"/>
-                <toc-element topic="elfska_nabozenstvi.md"/>
             </toc-element>
             <toc-element toc-title="artefakty">
                 <toc-element topic="astralni_zrcadlo.md"/>
