@@ -1,1 +1,0 @@
-# Návrat z dobrodružství

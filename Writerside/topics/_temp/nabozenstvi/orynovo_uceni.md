@@ -1,1 +1,0 @@
-# Orynovo učení

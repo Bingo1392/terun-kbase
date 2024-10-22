@@ -43,7 +43,7 @@ Měsíc nevstřebává éter ze slunce. Jelikož se nejedná o živoucí planetu
 
 Měsíc je oproti jiným tělesům zvláštní tím, že neobíhá slunce, ale Astarog.
 Navíc je k němu vždy otočen stejnou stranou.
-Díky tomu má Una skvělé pozorovatelské možnosti. Existuje tedy něco jako přilehlá a odlehlá strana měsíce. V jisných končinách se tomuto jevu říká tvář a temeno Uny.
+Díky tomu má Una skvělé pozorovatelské možnosti. Existuje tedy něco jako přilehlá a odlehlá strana měsíce. V jistých končinách se tomuto jevu říká tvář a temeno Uny.
 
 ## Kalakus
 
@@ -90,13 +90,6 @@ Na Doranu jsou běžné orkány, vybuchující sopky, všude přítomná tekouc�
 
 Až na některé vzácné výjimky zde nerostou žádné rostliny a nežijí zde žádní živočichové.
 Existuje zde pouze kamená a nestabilní poušť.
-
-Na Doranu žijí orkové - znetvořené bytosti bez duše, které se živí strachem a utrpením jiných.
-Orkové mohou vzniknout pouze na Doranu tím, že jsou vytesáni z orkanu - kamene, který existuje pouze zde.
-Jejich prací je mučit zkažené duše a živit uvězněné sénanty zkaženými dušemi.
-Pokud jsou sénanti živeni zkaženými dušemi, prožívají jejich muka a utrpení.
-Trpí tedy sami.
-Po pozření zkažené duše pokračuje duše standardní cestou, jakoby právě zemřela.
 
 ## Krakus
 

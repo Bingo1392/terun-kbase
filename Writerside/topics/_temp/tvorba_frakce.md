@@ -1,4 +1,4 @@
-# Frakce
+# Frakce - tvorba
 
 Frakce je určitá skupina obyvatel na nějakém území. Království jako takové může obsahovat několik frakcí
 

@@ -1,12 +1,12 @@
 # Zdroje bohatství
 
-## Krystaly many
+## Krystaly
 
-![Krajina Istrielu](magicky_krystal.png)
+![Magický krystal](magicky_krystal.png)
 
-Jedná se o různorodé krystaly, které využívají alchymisté k výrobě magických předmětů.
+Jedná se o různorodé krystaly, které využívají alchymisté a čarodějové k výrobě magických předmětů či očarování oblastí nebo bytostí.
 Nevýhodou některých krystalů je to, že může být nebezpečné s nimi pracovat.
-Ložiska krystalů many je možné najít v horách. Ta království, která mají přístup k těmto zdrojům mají předpoklad pro to, aby jejich armády byly vyzbrojeny lepšími magickými zbraněmi. Jedná se tedy o velmi žádanou surovinu.
+Ložiska krystalů je možné najít v horách či v divočině. Ta království, která mají přístup k těmto zdrojům mají předpoklad pro to, aby jejich armády byly vyzbrojeny lepšími magickými zbraněmi. Jedná se tedy o velmi žádanou surovinu.
 
 ### Almazit
 
@@ -106,15 +106,12 @@ Kůru je možné sklízet ze stromů tlustých alespoň kolem 25 coulů. Po skli
 Megwa je strom rostoucí v džunglích tropického pásu. Jedná se o tmavé dřevo prorostlé zelenými žilami magie.
 Megwa se nehodí k výrobě jakýchkoliv zbraní.
 Jedná se totiž o měké dřevo, které se jednoduše poškodí.
-Velkou výhodou Megwy je v tom, že dokáže v sobě zadržet 2 démony.
-Do výrobků z Megwy tedy můžou alchymisté zaklít 2 různé démony a tím kouzelný předmět získá více kouzelných vlastností.
+Velkou výhodou Megwy je v tom, že dokáže v sobě zadržet daleko více magie, než jiné materiály.
+Do výrobků z Megwy tedy můžou alchymisté zaklít více kouzel a tím kouzelný předmět získá více kouzelných vlastností.
 
 Pracovat s Megwou je velmi náročné a může to být i nebezpečné.
-Tvorba předmětů z tohoto dřeva má proto zvýšenou náročnost.
 
-Tam, kde roste mnoho stromů Megwy, může samovolně docházet k magickým anomáliím.
-
-Mechanicky to funguje tak, že předmět vyrobený z Megwy dostane jeden náhodný kouzelný efekt navíc.
+Tam, kde roste mnoho stromů Megwy, může samovolně docházet k magickým anomáliím a stejně tak výrobky z Megwy mohou mít náhodné magické schopnosti.
 
 ## Emeretová ruda
 
@@ -130,8 +127,6 @@ Z emeretu se tak stane nemagický a svými vlastnostmi ne příliž kvalitní ko
 
 Emeret enventuelně nabere svojí sílu zpět, ale musí být na 15 - 35 let v blízkosti aktivního vulkánu.
 
-Mechanicky to znamená, že kouzelný předmět vyrobený z Emeretové rudy má náhodně silnější účinek, než by bylo obvyklé. Nevýhodou však je, jeho omezená životnost a nutnost jej zpátky "nabít".
-
 ## Adaková ruda (skořábková ruda)
 
 ![Adakova_ruda](adakova_ruda.png)
@@ -146,7 +141,7 @@ Je daleko silnější než ocel.
 
 Jeho výhodou a zároveň nevýhodou je odpudivost magie.
 Zbroj vyrobená z Adaku dává svému nositeli zvláštní odolnost vůči magii.
-Na druhou stranu se Adakus nehodí k výrobě magických předmětů a není možné do něho zaklít žádného démona.
+Na druhou stranu se Adakus nehodí k výrobě magických předmětů.
 
 Naleziště Adakové rudy se obvykle nachází v oblastech velkých sladkovodních jezer.
 Adakus totiž není možné najít v zemi, ale jedná se o část skořábky Slávky adakové, což je sladkovodní mlž, který dorůstá velikosti i daleko přes 2 metry a žije stovky let.
@@ -157,7 +152,7 @@ Palamantin je kámen různých barev, který je jednoduše očarovatelný.
 Díky jeho schopnostem se z něho dají stavět velmi silné a zpevněné budovy.
 Hodí se i pro stavbu výškových budov, kterých by bylo velmi obtížné dosáhnout s klasickým kamenem.
 
-Je skvělý i k dekorativním účelům, jelikož pomocí seslání magie na tento kámen dokáže změnit jeho barvu.
+Je skvělý i k dekorativním účelům, jelikož pomocí magie dokáže změnit barvu.
 
 Jedná se o velmi žádaný kámen pro stavbu honosných paláců.
 
@@ -188,10 +183,18 @@ To jsou všechno důležité a poměrně běžné kovy.
 Pro držitele dolů těchto kovů to sice neznamená obrovské výdělky jako například zlato, stříbro nebo drahokamy, ale naleziště těchto kovů výrazně podporují obchod v okolí.
 Na obchodních cestách těchto artiklů proto vznikají výnosná města.
 
-## Úrodná půda
+## Úrodná půda (pouze pro lidi)
 
-Úrodná půda zvyšuje hustotu obyvatelstva v oblasti.
+Úrodná půda zvyšuje hustotu obyvatelstva v oblasti. Tento zdroj bohatství je zajímavý pouze pro lidi.
 
-## Úrodné vody
+## Úrodné vody (pouze pro lidi)
 
-Úrodné vody zvyšují hustotu obyvatelstva v oblasti.
+Úrodné vody zvyšují hustotu obyvatelstva v oblasti. Tento zdroj bohatství je zajímavý pouze pro lidi.
+
+## Hvozd a srdce hvozdu (pouze pro skřítky)
+
+Srdce hvozdu je posvátný strom někde v nitru hvozdu, který svým způsobem odráží zdraví celého hvozdu. Tento strom dovoluje skřítkům v rození nových skřítků. Pokud zemře strom, skřítci se již nemohou rozmnožovat a celý hvozd ochřadne.
+
+## Biomasa (pouze pro garmuny)
+
+V podstatě jakýkoliv bio materiál, který může být pozřen Garmuním hnízdem. Garmuní hnízdo nemůže bez tohoto materiálu pořádně fungovat.

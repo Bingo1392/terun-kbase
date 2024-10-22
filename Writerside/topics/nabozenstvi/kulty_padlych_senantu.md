@@ -18,7 +18,7 @@ Oproti ostatním padlým sénantům není přímo v při se sénanty. Může cho
 
 Etfel svým stoupencům nic nenařizuje. Nemá žádná pravidla a je na výkladu každého z nich, jak chce svého boha vzývat.
 
-Nicméně jako ostatní padlí sénanti dává svojí moc svým nejoblíbenějším stoupencům. Ti mohou užívat jak temné, tak bílé rituály. Etfel mezi tím nedělá rozdíly.
+Nicméně jako ostatní padlí sénanti dává svojí moc svým nejoblíbenějším stoupencům. Ti mohou užívat jak temné, tak běžné rituály. Etfel mezi tím nedělá rozdíly.
 
 V rámci Etfelova kultu se nepředává učení žádnou konkrétní formou. Tím, jak je Etfelovo učení zaměřeno na individualismus a zpochybňování autorit, sám žádnou takovou ucelenou formu neprosazuje. Většinou se tedy jeho učení předává ústně, ale každý si má udělat vlastní názor. Etfelovo učení spočívá v tom, že se čtou úryvky z různých zdrojů nebo se mluví o reáliích, které se momentálně dějí a kázající kněz se snaží rozebrat situaci a navrhnout vysvětlení, proč si on myslí, že se tak děje nebo stalo.
 

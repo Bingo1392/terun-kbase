@@ -3,8 +3,23 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="terun" name="Svět Térun"
-                  start-page="zakladni_konflikt.md">
+                  start-page="terun.md">
 
+    <toc-element topic="terun.md">
+        <toc-element topic="bytosti.md"/>
+        <toc-element toc-title="Astarog">
+            <toc-element topic="zdroje_bohatstvi.md"/>
+            <toc-element topic="rasy.md"/>
+            <toc-element toc-title="nabozenstvi">
+                <toc-element topic="senantska_vira.md"/>
+                <toc-element topic="kulty_padlych_senantu.md"/>
+                <toc-element topic="druidismus.md"/>
+            </toc-element>
+            <toc-element toc-title="monstra">
+                <toc-element topic="krel.md"/>
+            </toc-element>
+        </toc-element>
+    </toc-element>
     <toc-element toc-title="Mytologie">
         <toc-element topic="zakladni_konflikt.md"/>
         <toc-element topic="senanti.md"/>
@@ -12,9 +27,10 @@
         <toc-element topic="myticke_artefakty.md"/>
         <toc-element topic="magie.md"/>
         <toc-element topic="kosmos_terun.md"/>
-        <toc-element topic="bytosti.md"/>
     </toc-element>
     <toc-element toc-title="Astrální sféry">
+        <toc-element topic="kosmicke-principy.md"/>
+        <toc-element topic="Kosmické-principy-a-astrální-sféry.md"/>
         <toc-element topic="astralni_sfery.md"/>
         <toc-element topic="nudiel.md"/>
         <toc-element topic="vendariel.md"/>
@@ -25,23 +41,10 @@
         <toc-element topic="gulemeria.md"/>
         <toc-element topic="dejdenyr.md"/>
     </toc-element>
-    <toc-element toc-title="Astarog">
-        <toc-element topic="zdroje_bohatstvi.md"/>
-        <toc-element topic="rasy.md"/>
-        <toc-element toc-title="nabozenstvi">
-            <toc-element topic="prehled_nabozenstvi.md"/>
-            <toc-element topic="senantska_vira.md"/>
-            <toc-element topic="kulty_padlych_senantu.md"/>
-            <toc-element topic="druidismus.md"/>
-            <toc-element topic="elfska_nabozenstvi.md"/>
-        </toc-element>
-        <toc-element toc-title="artefakty">
-            <toc-element topic="astralni_zrcadlo.md"/>
-        </toc-element>
-        <toc-element toc-title="monstra">
-            <toc-element topic="krel.md"/>
-            <toc-element topic="feret.md"/>
-        </toc-element>
+    <toc-element topic="velka-hra.md">
+        <toc-element topic="armady.md"/>
+        <toc-element topic="ekonomie.md"/>
+        <toc-element topic="Střet-armád.md"/>
     </toc-element>
     <toc-element toc-title="Homebrew Dračí Hlídka">
         <toc-element topic="nulte_sezeni.md"/>
@@ -54,22 +57,14 @@
         <toc-element topic="uroven_obyvatel.md"/>
     </toc-element>
     <toc-element toc-title="Nápady a myšlenky">
+        <toc-element toc-title="artefakty">
+            <toc-element topic="astralni_zrcadlo.md"/>
+        </toc-element>
         <toc-element topic="tvorba_frakce.md"/>
-        <toc-element topic="rizeni_frakci.md"/>
         <toc-element topic="nova_rasa_nevidenych.md"/>
-        <toc-element topic="navrat_z_dobrodruzstvi.md"/>
-        <toc-element topic="mezidobi.md"/>
         <toc-element topic="frakce.md"/>
         <toc-element topic="aplikace_pravidel_JaD.md"/>
         <toc-element topic="aplikace_pravidel_DrH.md"/>
-        <toc-element toc-title="nabozenstvi">
-            <toc-element topic="vzyvani_krelu.md"/>
-            <toc-element topic="uceni_xang.md"/>
-            <toc-element topic="orynovo_uceni.md"/>
-            <toc-element topic="orynovi_deti.md"/>
-            <toc-element topic="nasledovani_torza.md"/>
-            <toc-element topic="magicky_kruh.md"/>
-        </toc-element>
         <toc-element toc-title="tumerie">
             <toc-element topic="tumerie.md"/>
             <toc-element topic="zavrikani.md"/>
