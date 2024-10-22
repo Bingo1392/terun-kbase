@@ -47,13 +47,17 @@ Bytosti žijící na Astarogu.
 Mají duši, kterou dostanou a jejich čas je omezen na délku jejich života.
 Po smrti je duše plná emocí a vzpomínek. Po smrti duše cestuje zpět do astrálních sfér, kde splyne se sférou a dovolí tak vzniku nové živé bytosti.
 
-Smrtelníci mívají červenou krev, výjimku tvoří takzvaní broukovci - skupina smrtelníků se zelenou krví (takzvanou krvomízou) a hmyzími rysy
+Smrtelníci mívají červenou krev, výjimku tvoří takzvaní broukovci - skupina smrtelníků se zelenou krví (takzvanou krvomízou) a hmyzími rysy.
+
+Smrtelníci nejsou schopni sami od sebe čarovat, ale mohou se naučit ovládat a sladit se s předměty, které jim takovou sílu propůjčí. Sladit se s takovým předmětem a být schopen pomocí něho efektivně kouzlit vyžaduje léta dlouhého tréninku.
 
 ## Bytosti bez duše (nečistí)
 
 Bytosti bez duše nemohou nijak vstoupit do astrální sféry, jelikož nemají jak. Tím, že nemají duši, nedokáží mít starost o druhé a jakkoliv se empaticky vžít do role ostatních. Bytosti bez duše se proto mohou zdát jako zlé či odtažité a je tomu tak - jinak to prostě neumí.
 
 Bytosti bez duše jsou také zvány jako nečisté bytosti. Jejich krev je černá jako samotná tma. Nečisté bytosti bývají magií vytvořené bytosti z jiných bytostí. Často bývají jednostranně zaměřené - tedy vynikají v některé disciplíně oproti originálu, ale ztrácejí v jiných disciplínách.
+
+Některé nečisté bytosti mohou mít schopnost kouzlení - záleží na okolnostech jejich vzniku.
 
 ### Trolové
 

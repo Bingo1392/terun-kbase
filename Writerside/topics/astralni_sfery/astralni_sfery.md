@@ -140,5 +140,3 @@ Mnohovesmír je formován kromě samotné Utecht i bytostmi zvanými démoni ast
 * Aspekt společného vědomí, propojenosti, stálosti, obnovy a vytrvalosti.
 * Rostliny a oživlé rostliny.
 * Princip Přírody a Extraktiky.
-
-## 

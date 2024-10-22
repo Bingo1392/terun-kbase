@@ -26,4 +26,48 @@
         <description>Created after removal of "Elfská náboženství" from Svět Térun</description>
         <accepts>elfska_nabozenstvi.html</accepts>
     </rule>
+    <rule id="65188551">
+        <description>Created after removal of "Přehled náboženství" from Svět Térun</description>
+        <accepts>prehled_nabozenstvi.html</accepts>
+    </rule>
+    <rule id="5e156e3c">
+        <description>Created after removal of "Feret" from Svět Térun</description>
+        <accepts>feret.html</accepts>
+    </rule>
+    <rule id="46b64241">
+        <description>Created after removal of "Řízení frakcí" from Svět Térun</description>
+        <accepts>rizeni_frakci.html</accepts>
+    </rule>
+    <rule id="6046a8bc">
+        <description>Created after removal of "Návrat z dobrodružství" from Svět Térun</description>
+        <accepts>navrat_z_dobrodruzstvi.html</accepts>
+    </rule>
+    <rule id="2699d918">
+        <description>Created after removal of "Mezidobí" from Svět Térun</description>
+        <accepts>mezidobi.html</accepts>
+    </rule>
+    <rule id="482eb6c9">
+        <description>Created after removal of "Vzývání Krelů" from Svět Térun</description>
+        <accepts>vzyvani_krelu.html</accepts>
+    </rule>
+    <rule id="b79a46e">
+        <description>Created after removal of "Učení Xang" from Svět Térun</description>
+        <accepts>uceni_xang.html</accepts>
+    </rule>
+    <rule id="24d194d">
+        <description><![CDATA[Created after removal of "<orynovo_uceni.md>" from Svět Térun]]></description>
+        <accepts>orynovo_uceni.html</accepts>
+    </rule>
+    <rule id="139a1526">
+        <description>Created after removal of "Orynovi děti" from Svět Térun</description>
+        <accepts>orynovi_deti.html</accepts>
+    </rule>
+    <rule id="53390910">
+        <description>Created after removal of "Následování Torza" from Svět Térun</description>
+        <accepts>nasledovani_torza.html</accepts>
+    </rule>
+    <rule id="1b110dbb">
+        <description>Created after removal of "Magický kruh" from Svět Térun</description>
+        <accepts>magicky_kruh.html</accepts>
+    </rule>
 </rules>

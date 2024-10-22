@@ -27,6 +27,8 @@ Rozpínavost populů nezná hranic. Pro ostatní rasy mohou představovat pohrom
 
 Společnost populů je společnost mužů. Ženy se jen vyjímečně dostanou do vedoucí pozice. Ženy se starají hlavně o domácnost a o děti. Muži mají obstarat obživu, peníze a ochraňovat jejich rodinu.
 
+Hlavními náboženstvími Populů bývá víra v sénanty a to buď v měsíční či ve sluneční zirkul.
+
 ### Skalové
 
 ![Skalové](skal.png)
@@ -36,6 +38,8 @@ Skalové jsou divočinou ošlehaným surovým rodem lidí, který si zvykl na dr
 Skalové si nade vše cení hrdinství a velmi rádi si mezi sebou vyprávějí příběhy o hrdinských skutcích svých otců, dědů a vůdcích.
 
 Ženy skalů jsou více nezávislé na můžích, než populské ženy. Některé dokonce vyráží na válečná tažení jako válečnice a bojují po boku mužů.
+
+Skalové často věří v různé kulty padlých sénantů. Některé oblasti jsou však věrné slunečnímu či měsíčnímu zirkulu.
 
 ### Kremeni
 
@@ -57,6 +61,8 @@ Altakové mívají tmavé oči i vlasy. Dokonce i jejich pokožka je v určitém
 Altakové jsou známí tím, že jsou skvělí lovci a stopaři. Také jsou skvělými pastevci. Jejich hlavním vývozním artiklem bývají kožešiny ulovených zvířat či vlna domestikovaných ovcí či koz.
 
 Pro altaky je jejich čest vším. Stejně tak jejich kmen. Různé urážky si berou velmi osobně a ti, co se nechovají dle jejich tradic urážejí majestát jejich vůdců, což může vézt k prolití krve. Jakékoliv politické smlouvy mezi altaky a jinými národy bývají proto vždy křehké.
+
+Altakové nemají jednoznačné náboženství, které následují. Jejich náboženství je často dáno náboženstvím jejich vůdců. Jsou si vědomi, že ve světě je mnoho mocných entit a pokud jsou tyto entity schopny svojí moc ukázat, dává smysl v ně věřit.
 
 ## Skřítci
 
@@ -85,6 +91,8 @@ Skřítčí muž a skřítčí žena jsou si oddáni po celý život a neexistuj
 Pro skřítčí společnost není jídlo klíčovým aspektem k přežití. Jíst musejí, ale nejí velké porce. Jejich magie je hodně zaměřena na růst plodin a vystačí si s menšími květináči všeho možného. V okolí skřítčích měst lze najít políčka, ale nikdy v takovém rozsahu, jako lidská města.
 
 Klíčové pro přežití skřítčí společnosti jsou hvozdy, jejich rozloha a také zdraví. Život skřítků je v podstatě o starání se o zdraví hvozdu. Temné síly či jiné civilizace mohou harmonii hvozdu narušit a skřítci musí s těmito vnějšími silami bojovat.
+
+Všechny skřítky spojuje druidismus, který uctívá duchy přírody. Druidismus napomáhá skřítkům k ovládání sil hvozdu.
 
 
 | Etapa života     | Věk           |
@@ -128,6 +136,8 @@ Garmuné se od ostatních ras rozmnožují jinak. Vše se točí kolem společen
 
 Hnízdo není pouze společenstvím, ale je to živoucí organismus, který je naprogramovaný, aby plnil vůli svých pánů. Stěny hnízda jsou napůl organické a napůl z kovu či z kamene a nebo i dalších pevných částí. Když se dá hnízdo do pohybu, většina členů společenství má nějaký úkol, aby zajistil bezproblémový pohyb hnízda, které se opotřebovává a je potřeba jej neustále opravovat.
 
+Garmunové nerozumí konceptu náboženství. Jediné, co uctívají je jejich královna, pro kterou jsou ochotni nasadit vlastní život.
+
 | Etapa života     | Věk           |
 |------------------|---------------|
 | Novorozenec      | 0 -6 měsíců   |
@@ -140,8 +150,6 @@ Hnízdo není pouze společenstvím, ale je to živoucí organismus, který je n
 | Maximální dožití | 80 let        |
 
 ### Blukrové
-
-![Blukrové](blukr.png)
 
 Jsou asi dvou třetinového vzrůstu jak lidé. Téměř celé jejich tělo je pokryto tvrdým krunýřem chytinu. 
 

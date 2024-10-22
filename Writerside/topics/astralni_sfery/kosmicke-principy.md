@@ -1,5 +1,7 @@
 # Kosmické principy
 
+Kosmické principy jsou protiklady, které spolu neustále bojují, ale jeden nemůže existovat bez druhého.
+
 ## 1. Řád vs. Chaos
 
 ### Řád
