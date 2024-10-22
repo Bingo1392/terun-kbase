@@ -150,11 +150,3 @@ Jsou asi dvou třetinového vzrůstu jak lidé. Téměř celé jejich tělo je p
 Menší společenství Blukrů je schopno se uživit podzemním hmyzem, kořeny rostlin či pěstováním hub přímo v samotném hnízdě. Maso jako takové je pro ně velmi sváteční jídlo. Většinu masa, které někde získají proměňují na protein nutný k růstu jejich hnízda. Obvykle však nejedí inteligentní tvory, se kterými raději obchodují.
 
 Blukrové jsou známí kovotepci, dolmistři, kameníci a šperkaři. Jejich hlavními obchodnimi artikly jsou drahé kovy, kameny či jiné nerosty. Naopak vyhledávají biomasu a obecně jídlo, které jim dovoluje v růstu a údržbě hnízda. V případě války si Blukrové nárokují těla padlých nepřátel i vlastních vojáků, aby mohli dále pohánět své hnízdo.
-
-### Verxové
-
-![Verxové](verx.png)
-
-Také nazýváni vosí lid jsou Garmuni s křídly stavnou těla připomínající vosy.
-
-> TBD

@@ -6,8 +6,8 @@ Příroda jako taková má moc, kterou jí předala Bohyně Úna. Úna byla pan�
 
 Druidismus nemá nějakou jasně danou příručku, jak se chovat - veškeré umění je předáváno z druida na druida. Kromě souboru pravidel, kterým druidi říkají Druidský kodex je často přímo na druidovi/lešenovi, jak se bude chovat. Druidi a lešeni slouží ve společnosti mnoha účelům:
 
-- *Vzdělání lidí a filozofické školy:* Druidové zakládají školy pro vzdělání bohatých a vedou filozofické kroužky, kde filozofují nad otázkami vzniku a koloběhu života.
-- *Léčení:* Druidi jsou vyhledávanými léčiteli. Lidé jim nosí všelijaké dary a oni léčí jejich příbuzné.
+- *Vzdělání a filozofické školy:* Druidové zakládají školy pro vzdělání a vedou filozofické kroužky, kde filozofují nad otázkami vzniku a koloběhu života.
+- *Léčení:* Druidi jsou vyhledávanými léčiteli. Ostatní jim nosí všelijaké dary a oni léčí jejich příbuzné.
 - *Duchovno, rituální vykonavatelé a rádci:* Druidi plní úlohu rádců z pohledu náklonosti duchů přírody, vykonavatelů různých ceremoniálních rituálů a obecných duchovních průvodců tím, co je správné a co už není.
 
 *Druidský kodex* je soubor pravidel, který musí všichni druidi a lešeni dodržovat. V podstatě se v něm píše, že by měli druidi pomáhat všemu živému a snažit udržovat svět v rovnováze. Divočina a civilizace by spolu měly žít v harmonii a ne spolu neustále soupeřit. Důležitým bodem kodexu je to, že pokud v určité oblasti již nějaký druid působí, jiný druid by mu měl tuto oblast zanechat a přesunout se jinam. Je tedy vyloženě zakázáno, aby druidové mezi sebou soupeřili. Pomoc mezi druidy je však podporována a jedná se o určitý znak vyspělosti a úcty.
@@ -24,12 +24,12 @@ Hierarchie Druidského společenství:
 
 - *Lešen* - Lešeni jsou druidi, kteří ještě nemají schopnost probouzet či uspávat hvozd. Splnili Lešenské zkoušky a znají základy pouta s přírodou. Lešeni buď pomáhají místním komunitám nebo cestují po světě a pomáhají, jak mohou. Mnoho Lešenů pomáhá se společenskými obřady typu svatba či pohřeb. Lešeni se mohou účastnit druidského sněmu, ale nemají hlasovací právo. Často také Lešeni plní mise zadané nějakým druidem, který buď nemá na tyto úkoly čas nebo chce dát Lešenovi možnost se ukázat.
 
-- *Poupan* - Jedná se o učedníka na druida. Není ještě tak schopný, aby dostatečně navázal spojení s přírodou. Většinou se jedná o mladé chlapce nebo dívky do 18 let věku.
+- *Poupan* - Jedná se o učedníka na druida. Není ještě tak schopný, aby dostatečně navázal spojení s přírodou. Většinou se jedná o mladé chlapce nebo dívky kteří ještě nedosáhli dospělosti.
 
 ## Další charakteristiky
 
 - *Symbol:* trojitá pravotočivá spirála točená od vnějšku dovnitř
-- *Finance:* druidi žijí pouze z darů od lidí, kterým pomáhají. Je obecně známo, že je nutné druidovi přinést nějaký dar, aby vykonal nějaký rituál či zázrak. To samé platí pro Lešeny. Druidi, kteří jsou součástí šlechtických dvorů bývají ti nejmocnější a často se stávají i kořenovými druidy.
+- *Finance:* druidi žijí pouze z darů od těch, kterým pomáhají. Je obecně známo, že je nutné druidovi přinést nějaký dar, aby vykonal nějaký rituál či zázrak. To samé platí pro Lešeny. Druidi, kteří jsou součástí šlechtických dvorů bývají ti nejmocnější a často se stávají i kořenovými druidy.
 - *Otevřenost:* druidy se mohou stát i ženy a neexstuje žádné omezení, které by jim zakazovalo stát se Lešenem či Arcidruidem.
 
 ## Literatura, umění a předávání znalostí
