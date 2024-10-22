@@ -118,23 +118,15 @@ Co si však Tongaové nechali je jejich smysl o bohatou a kořeněnou kuchyni, k
 
 O co víc se nechali ovlivnit jinými národy, o to víc si nyní chrání svojí identitu. Skřítci Tonga si moc dobře uvědomují, že svět je nebezpečné místo. Stal se z nich tedy militantní národ, který si nenechá nic líbit. Říká se, že s Tonga skřítky můžete mít pouze 2 typy vztahů - buď spolu obchodujete, nebo spolu válčíte.
 
-## Garmuni
+## Garmuni (Broukovci)
 
-> TODO
-> - Dořešit rozmnožování (rozdíl mezi mužem a ženou?)
-> - Dořešit jejich speciální schopnosti dané chitinem
-> - Dořešit zda jsou vůbec smrtelníci či nikoliv
-> - Dořešit rozdílnou ekonomiku společnosti (předpokládám, že nepěstují obilí, aby se uživili). Nějak to začlenit do toho, že žijí v podzemí.
+Jsou bytosti, které mají blízko k hmyzu. Někdy jsou nazývání hmyzími lidmi či broukovci. Nemají standardní krev, ale takzvanou krvomízu - zelená hustá a lepkavá hmota. Nemají standardní kostru, ale chitin, který je jejich přirozenou zbrojí a zároveň jim propůjčuje neobvyklou sílu vzhledem k jejich velikosti.
 
-Jsou bytosti, které mají blízko k hmyzu. Někdy jsou nazývání hmyzími lidmi. Žijí v podzemí a nemají rádi velký chlad. Jsou trochu menší než lidé. Mají rozpínovanou mysl a rádi objevují nová místa. Občas se celé hnízdo, jak se nazývá jejich společenství, vezme a přesune jinam.
-
-Menší společenství Garmunů se uživí podzemním hmyzem, houbami či rybolovem z podzemních řek. Pokud však jejich společenství doroste do několika stovek jedinců, musí už hledat potravu na povrchu. To většinou spočívá v lovení divoké zvěře, obdělávání půdy, nájezdy a kradení zásob od ostatních národů či obchod s těmito národy.
-
-Garmuni nejsou velcí rolníci či pastevci, ale zato jsou skvělí dolmistři, kovotepci, kameníci a alchymisté. Rádi obchodují s jinými rasami, jejich hlavními vývozními artikly jsou drahé kovy, kameny, šperky a alchymistické předměty.
+Nemají rádi velký chlad. Mají rozpínovanou mysl a rádi objevují nová místa. Občas se celé hnízdo, jak se nazývá jejich společenství, vezme a přesune jinam.
 
 Garmuné se od ostatních ras rozmnožují jinak. Vše se točí kolem společenství, kterému se říká hnízdo. Hnízdo má svojí královnu. Ta se páří s nejsilnějšími a nejvlivnějšími Garmuny. Poté královna rodí jeden malý kokon za druhým. Z těchto kokonů se po nějaké době vyklubou noví malí Garmuni. Všichni Garmuni jsou tedy muži. V pozdějším věku porodí královna novou královnu, která po dovršení dospělosti nahradí tu starou. Pro garmuny je královna vším. Brání jí jak jen mohou a plní její rozkazy. Mezi jednotlivými královnami může vznikat rivalita, která může propuknout v krvavou válku.
 
-Garmuné se rozdělují na 2 poddruhy. Všechny poddruhy žijí spolu v jednom hnízdě. Každý z poddruhů se specializuje na jinou úlohu v hnízdě a královna se při porodu rozhoduje sama, jaký typ garmuna porodí.
+Hnízdo není pouze společenstvím, ale je to živoucí organismus, který je naprogramovaný, aby plnil vůli svých pánů. Stěny hnízda jsou napůl organické a napůl z kovu či z kamene a nebo i dalších pevných částí. Když se dá hnízdo do pohybu, většina členů společenství má nějaký úkol, aby zajistil bezproblémový pohyb hnízda, které se opotřebovává a je potřeba jej neustále opravovat.
 
 | Etapa života     | Věk           |
 |------------------|---------------|
@@ -151,12 +143,18 @@ Garmuné se rozdělují na 2 poddruhy. Všechny poddruhy žijí spolu v jednom h
 
 ![Blukrové](blukr.png)
 
-Jsou Garmuni, kteří se zaměřují na alchymii, kouzlení a na jemnou práci jako je například šperkařství a další řemesla, kde je zapotřebí preciznosti.
+Jsou asi dvou třetinového vzrůstu jak lidé. Téměř celé jejich tělo je pokryto tvrdým krunýřem chytinu. 
 
-Fyzicky jsou Blukrové velmi malí. V porovnání s člověkem je dospělý Blukr do půli stehna dospělého muže.
+Žijí v podzemí a stavějí si hnízdo připomínající obrovského červa. Tito červi potují skrze horninu, žerou jí a na opačném konci vylučují, jakmile projde přes trávicí trakt. Ubytovací kóje a místnosti jsou hlavně ve stěnách samotného červa. Když Blukrové narazí na pevnou skálu, mohou ji buď obejít a nebo se rozhodnout, že se pokusí prokutat skrz. Samotný červ zvládne prokousat i skálu, ale láme si u toho ocelové zuby a trvá mu to daleko déle. Když se dá hnízdo do pohybu, mají Blukrové plné ruce práce s nejrůznějšími opravami samotného červa. 
+
+Menší společenství Blukrů je schopno se uživit podzemním hmyzem, kořeny rostlin či pěstováním hub přímo v samotném hnízdě. Maso jako takové je pro ně velmi sváteční jídlo. Většinu masa, které někde získají proměňují na protein nutný k růstu jejich hnízda. Obvykle však nejedí inteligentní tvory, se kterými raději obchodují.
+
+Blukrové jsou známí kovotepci, dolmistři, kameníci a šperkaři. Jejich hlavními obchodnimi artikly jsou drahé kovy, kameny či jiné nerosty. Naopak vyhledávají biomasu a obecně jídlo, které jim dovoluje v růstu a údržbě hnízda. V případě války si Blukrové nárokují těla padlých nepřátel i vlastních vojáků, aby mohli dále pohánět své hnízdo.
 
 ### Verxové
 
 ![Verxové](verx.png)
 
-Jsou Garmuni, kteří se zaměřují na fyzickou práci a tvoří páteř Garmuního vojska. Oproti Blukrům jsou větší, těžší, houževnatější, ale nehodí se tolik pro drobnou práci Blukrů.
+Také nazýváni vosí lid jsou Garmuni s křídly stavnou těla připomínající vosy.
+
+> TBD

@@ -194,3 +194,7 @@ Na obchodních cestách těchto artiklů proto vznikají výnosná města.
 ## Hvozd a srdce hvozdu (pouze pro skřítky)
 
 Srdce hvozdu je posvátný strom někde v nitru hvozdu, který svým způsobem odráží zdraví celého hvozdu. Tento strom dovoluje skřítkům v rození nových skřítků. Pokud zemře strom, skřítci se již nemohou rozmnožovat a celý hvozd ochřadne.
+
+## Biomasa (pouze pro garmuny)
+
+V podstatě jakýkoliv bio materiál, který může být pozřen Garmuním hnízdem. Garmuní hnízdo nemůže bez tohoto materiálu pořádně fungovat.
