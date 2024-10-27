@@ -16,7 +16,7 @@ Ve sférách žijí bytosti, které často mívají nějaký účel. Některé i
 
 ## Spojitost
 
-Astrální sféry mají dopad na materiální svět. Především se jedná o přítomnost magie. S tím souvisí ale i další a mnohem zajímavější dopad, kterým je Spojitost.
+Astrální sféry mají dopad na materiální svět. Především se jedná o přítomnost magie a přírodních sil. S tím souvisí ale i další a mnohem zajímavější dopad, kterým je Spojitost.
 
 Spojitost se projevuje dvěma způsoby. Pokud převládá v oblasti nějaká emoce či aspekt, může se objevit astrální trhlina, která dovolí astrálním bytostem, zosobňujícím tuto emoci nebo aspekt dostat se do materiálního světa.
 
@@ -53,8 +53,6 @@ Ve většině astrálních sfér platí podobná pravidla jako v materiální sf
 Rozdíl však existuje. Postava nemůže v astrální sféře zemřít na hlad ani vyčerpání. Získá sice všechny postihy s tím spojené, ale nemůže to být pro postavu fatální.
 
 Inteligence je v astrálním světě králem. Opravdu inteligentní jedinci jsou schopni všechny negativní dopady oddálit tím, že jejich mysl se povznese nad konkrétní potřebu nebo překážku.
-
-> Kdykoliv si postava musí hodit na ověření vlastnosti, přičítá si kromě standardního atributu i bonus/postih za inteligenci. Sféra může mít na cestovatele vliv. Pokud cestovatel uspěje v hodu na ověření inteligence, může ignorovat všechny záporné efekty, které na ni sféra má.
 
 ## Nudiel země smrti a stínů
 
@@ -127,16 +125,9 @@ Osud je nejstarší ze všech Astrálních lordů. To osud určil, jaké úlohy 
 
 * Utecht paní vyšší dimenze
 * Aspekt nepoznaného, tajemství, nepochopení, záhady, monstrozity.
-* Démoni.
+* Zrůdy a Démoni.
 * Princip Chaosu a Arkány.
 
 Mnohovesmírná sféra je sféra, kde může kolidovat několik naprosto bizardních světů do sebe. Neexistují zde jasné zákony, respektive zde neexistují pravidla jednoduše pobratelné bytostmi žijícími v trojrozměrném prostoru. Jelikož jsou mnohosvěty bizardními místy, žijí zde i bizardní stvoření. Jejich úloha je nejasná - většinou zde prostě žijí a je jim dopřán nějaký podivný ekosystém fauny a flory. Jednotlivé kolidující světy a jejich zákony bývají výtvorem samotné Utecht či následkem působení bytostí zvaných démoni astrálních sfér. Když se dostane duše do některého ze světů mnohovesmíru, Utecht to většinou nezajímá a záleží na podstatě prostředí jestli duše přežije či nikoliv. Pokud však nepřežije, objeví se v Nudielu, jakoby její tělo zemřelo v materiální sféře. Zrůdy z mnohovesmíru nemají duši a když zahynou, jsou prostě zničeny.
 
 Mnohovesmír je formován kromě samotné Utecht i bytostmi zvanými démoni astrálních sfér. Tito démoni mohou projevovat různou dávku inteligence. Každý z nich může mít i jinou motivaci a jiný cíl. Démoni jsou alchymisty vyhledávané bytosti. Alchymisté dokáží lapit démony do předmětu. Tyto předměty pak získají magické schopnosti, které jsou propůjčené démonem.
-
-## Botanea země rostlin
-
-* Duše lesa
-* Aspekt společného vědomí, propojenosti, stálosti, obnovy a vytrvalosti.
-* Rostliny a oživlé rostliny.
-* Princip Přírody a Extraktiky.

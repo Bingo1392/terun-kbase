@@ -49,3 +49,11 @@ Kosmické principy jsou protiklady, které spolu neustále bojují, ale jeden ne
 - **Transmutace:** Extrakce a proměna energie či hmoty.
 - **Barva:** Oranžová
 - **Další aspekty:** Samočinnost, vylepšení fyzických schopností
+
+## Kosmické principy a astrální sféry
+
+Kosmické principy jsou propojeny s existencí astrálních sfér, kde každá astrální sféra je výsledkem spojení dvou kosmických principů.
+
+Následující graf ukazuje všechny známé astrální sféry a kosmické principy, ze kterých vycházejí.
+
+![Kosmicke_principy](principy.jpg)

@@ -70,4 +70,8 @@
         <description>Created after removal of "Magický kruh" from Svět Térun</description>
         <accepts>magicky_kruh.html</accepts>
     </rule>
+    <rule id="bdc7d30">
+        <description>Created after removal of "Kosmické principy a astrální sféry" from Svět Térun</description>
+        <accepts>Kosmické-principy-a-astrální-sféry.html</accepts>
+    </rule>
 </rules>
