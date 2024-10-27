@@ -8,11 +8,13 @@ Astrálním lordem Gulemerie je Gorlin, také zvaný jako pán osudu. Jedná se 
 
 Gorlin se snaží zamezit duším přístupu do této sféry, jelikož by jejich navnímání budoucích událostí mohlo zapříčinit jiné chování, než jaké by měli bez této informace. Existují pověry, že se skrze tuto sféru dá cestovat do budoucnosti či minulosti - neexistuje však nikdo, kdo by něco takového potvrdil.
 
+Gulemerií procházejí principy Arkány a Řádu.
+
 ## Jak ovlivňuje Gulemeria obyvatele Astarogu?
 
-Gulemeria je zdrojem takzvané Vysoké magie. Díky této sféře proudí tato magie i do materiální sféry.
+Sféra zasahuje do životů ostatních minimálně. Teoreticky je možné z této sféry vyčíst co bylo, je nebo co bude, ale jedná se o tak nepřístupnou sféru, že jen málokdo dokáže říct něco více specifického.
 
-Sféra jinak zasahuje do životů ostatních minimálně. Teoreticky je možné z této sféry vyčíst co bylo, je nebo co bude, ale jedná se o tak nepřístupnou sféru, že jen málokdo dokáže říct něco více specifického.
+## Obyvatelé Gulemerie
 
 ### Gorlin
 

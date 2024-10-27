@@ -12,9 +12,9 @@ Když se na Kanameiře objeví duše, která zde nemá co dělat. Kentauři tako
 
 Na Kanameiře nelze umřít. Pokud je duše na Kanameiře zabita, dostane se do bezvědomí a po několika dnech znovu oživne. Standardně se do této sféry nemohou inteligentní bytosti dostat, ale některé ji stejně vyhledávají jako místo, kde mohou bezmezně lovit.
 
-## Jak ovlivňuje Kanameira obyvatele Astarogu?
+Kanameira vznikla na základech kosmických principů Přírody a Chaosu.
 
-Kanameira je zdrojem přírodní magie. Díky této sféře je možné komunikovat s faunou a florou v materiální sféře. Hraničáři a druidi z materiální sféry jsou schopni navázat díky magickým proudům vedoucím z Kanameiry spojení s přírodními silami a formovat je kolem sebe.
+## Obyvatelé Kanameiry
 
 ### Lykanis
 

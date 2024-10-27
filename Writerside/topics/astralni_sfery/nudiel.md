@@ -10,9 +10,9 @@ Přirozenými obyvateli Nudielu jsou upíři, kteří řídí veškerý chod. Up
 
 Když dorazí duše do Nudielu, je nechána na pospas bloudění po pustých horách. Jakmile se setká s některým z poskoků, je zaveden ke svému pánu - jednomu z upířích knížat. Upíří pán poté rozhodne na základě ochutnání esence duše, zda nechá duši projít bránou do Abordey nebo do Vendarielu. Samotné ochutnání esence duše vypadá jako kousnutí do krku duše a ochutnání její krve.
 
-## Jak ovlivňuje Nudiel obyvatele Astarogu?
+Nudiel funguje na základě kosmických principů Stínu a Řádu.
 
-Vitální magie, která je velmi spjata s existencí sféry Nudiel, má široký dopad na život smrtelníků na Astarogu. Někteří kouzelníci z materiální sféry dokážou tuto magii ovládat.
+## Obyvatelé Nudielu
 
 ### Kolteš
 
