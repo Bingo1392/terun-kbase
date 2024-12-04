@@ -40,22 +40,22 @@
         <toc-element topic="gulemeria.md"/>
         <toc-element topic="dejdenyr.md"/>
     </toc-element>
-    <toc-element topic="velka-hra.md">
-        <toc-element topic="armady.md"/>
-        <toc-element topic="ekonomie.md"/>
-        <toc-element topic="Střet-armád.md"/>
-    </toc-element>
-    <toc-element toc-title="Homebrew Dračí Hlídka">
-        <toc-element topic="nulte_sezeni.md"/>
-        <toc-element topic="vyber_rasy.md"/>
-        <toc-element topic="unava.md"/>
-        <toc-element topic="nalozeni.md"/>
-        <toc-element topic="moralka.md"/>
-        <toc-element topic="magicke_predmety.md"/>
-        <toc-element topic="akce_a_situace.md"/>
-        <toc-element topic="uroven_obyvatel.md"/>
-    </toc-element>
     <toc-element toc-title="Nápady a myšlenky">
+        <toc-element toc-title="Homebrew Dračí Hlídka">
+            <toc-element topic="nulte_sezeni.md"/>
+            <toc-element topic="vyber_rasy.md"/>
+            <toc-element topic="unava.md"/>
+            <toc-element topic="nalozeni.md"/>
+            <toc-element topic="moralka.md"/>
+            <toc-element topic="magicke_predmety.md"/>
+            <toc-element topic="akce_a_situace.md"/>
+            <toc-element topic="uroven_obyvatel.md"/>
+        </toc-element>
+        <toc-element topic="velka-hra.md">
+            <toc-element topic="armady.md"/>
+            <toc-element topic="ekonomie.md"/>
+            <toc-element topic="Střet-armád.md"/>
+        </toc-element>
         <toc-element toc-title="artefakty">
             <toc-element topic="astralni_zrcadlo.md"/>
         </toc-element>
