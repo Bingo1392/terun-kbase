@@ -7,17 +7,18 @@
 
     <toc-element topic="terun.md">
         <toc-element topic="bytosti.md"/>
-        <toc-element toc-title="Astarog">
-            <toc-element topic="zdroje_bohatstvi.md"/>
-            <toc-element topic="rasy.md"/>
-            <toc-element toc-title="nabozenstvi">
-                <toc-element topic="senantska_vira.md"/>
-                <toc-element topic="kulty_padlych_senantu.md"/>
-                <toc-element topic="druidismus.md"/>
-            </toc-element>
-            <toc-element toc-title="monstra">
-                <toc-element topic="krel.md"/>
-            </toc-element>
+        <toc-element topic="zdroje_bohatstvi.md"/>
+        <toc-element topic="rasy.md"/>
+        <toc-element toc-title="Náboženství">
+            <toc-element topic="senantska_vira.md"/>
+            <toc-element topic="kulty_padlych_senantu.md"/>
+            <toc-element topic="druidismus.md"/>
+        </toc-element>
+        <toc-element toc-title="Monstra">
+            <toc-element topic="krel.md"/>
+        </toc-element>
+        <toc-element toc-title="Kultury">
+            <toc-element topic="Feudální.md"/>
         </toc-element>
     </toc-element>
     <toc-element toc-title="Mytologie">

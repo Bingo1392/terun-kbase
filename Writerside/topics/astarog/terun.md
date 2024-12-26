@@ -1,10 +1,16 @@
 # Térun
 
-High level popis světa
+V nekonečné temnotě se vznáší bublina kosmu zvaného Térun. Uprostřed této mystické sféry plane věčné Slunce, domov samotného Téra, prvotní bytosti, která dala vzniknout všemu, co jest. Kolem něj se v majestátním rytmu otáčí Astarog, svět, kde se proplétají osudy smrtelníků.
 
-## Astarog
+Nad tímto světem bdí Měsíc, tichý domov Uny - Térovi chotě, ze kterého pozoruje nekonečný tanec života a smrti. Za hranicemi smrtelného světa se tyčí zlatý Heldejm, říše nesmrtelných Sénantů, a temný Doran, kde ve věčných mukách přebývají duše zatracených. Mezi těmito říšemi se vznáší tajemný Kalakus, most mezi světy, kde se rozhoduje o osudu každé duše, která opustí smrtelnou schránku.
 
-High level popis kontinentu
+V hlubinách Astarogu pulzuje magie jako životodárná míza. Krystaly, zrozené v končinách zvané Divočina, jsou zdrojem moci, po které prahnou králové i čarodějové. Tam, kde se materiální svět střetává s astrálními sférami, vznikají trhliny reality a oblasti plné nebezpečí i příležitostí, lákající dobrodruhy svým příslibem bohatství.
+
+Víra v mocné Sénanty rozdělila svět na dva tábory - přísný Sluneční Zirkul a mírnější Měsíční Zirkul. V lesích a hvozdech však přetrvává prastarý Druidismus, zatímco ve stínech se skrývají temné kulty padlých Sénantů, kteří se vzepřeli božskému řádu.
+
+Je to svět, kde magie proudí v žilách země a kde osud každé duše je spředen nitkami astrálních sfér.
+
+V tomto světě plném divů a nebezpečí se píší příběhy hrdinů i padouchů, příběhy o lásce i zradě, o moci i odpovědnosti, o světle i temnotě. Vítejte v Térunu, říši nekonečných možností, kde každý úsvit přináší nová dobrodružství a každý soumrak skrývá pradávná tajemství.
 
 ## Grimoáry
 
