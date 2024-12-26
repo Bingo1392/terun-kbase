@@ -74,4 +74,8 @@
         <description>Created after removal of "Kosmické principy a astrální sféry" from Svět Térun</description>
         <accepts>Kosmické-principy-a-astrální-sféry.html</accepts>
     </rule>
+    <rule id="65650ab0">
+        <description><![CDATA[Created after removal of "<Kultury.md>" from Svět Térun]]></description>
+        <accepts>Kultury.html</accepts>
+    </rule>
 </rules>
