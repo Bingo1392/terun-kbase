@@ -78,4 +78,8 @@
         <description><![CDATA[Created after removal of "<Kultury.md>" from Svět Térun]]></description>
         <accepts>Kultury.html</accepts>
     </rule>
+    <rule id="4d8aa608">
+        <description>Created after removal of "Hmyzáci" from Svět Térun</description>
+        <accepts>Hmyzáci.html</accepts>
+    </rule>
 </rules>

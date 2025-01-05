@@ -7,32 +7,41 @@
 
     <toc-element topic="terun.md">
         <toc-element topic="bytosti.md"/>
+        <toc-element topic="Barvy-krve.md"/>
         <toc-element topic="zdroje_bohatstvi.md"/>
-        <toc-element toc-title="Rasy">
-            <toc-element topic="Víly.md">
-                <toc-element topic="Skřítci.md"/>
-                <toc-element topic="Elfové.md"/>
-                <toc-element topic="Permoníci.md"/>
-            </toc-element>
-            <toc-element topic="Lidé.md">
-                <toc-element topic="Populové.md"/>
-                <toc-element topic="Skalové.md"/>
-                <toc-element topic="Kremeni.md"/>
-            </toc-element>
-            <toc-element topic="Hmyzáci.md"/>
-            <toc-element topic="Malpurové.md"/>
-        </toc-element>
-        <toc-element topic="rasy.md"/>
         <toc-element toc-title="Náboženství">
             <toc-element topic="senantska_vira.md"/>
             <toc-element topic="kulty_padlych_senantu.md"/>
             <toc-element topic="druidismus.md"/>
         </toc-element>
-        <toc-element toc-title="Monstra">
-            <toc-element topic="krel.md"/>
-        </toc-element>
         <toc-element toc-title="Kultury">
             <toc-element topic="Feudální.md"/>
+        </toc-element>
+        <toc-element toc-title="Rasy">
+            <toc-element topic="Rudokrevci.md">
+                <toc-element topic="Lidé.md">
+                    <toc-element topic="Populové.md"/>
+                    <toc-element topic="Skalové.md"/>
+                    <toc-element topic="Kremeni.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element topic="Manakrevci.md">
+                <toc-element topic="Víly.md">
+                    <toc-element topic="Skřítci.md"/>
+                    <toc-element topic="Elfové.md"/>
+                    <toc-element topic="Permoníci.md"/>
+                </toc-element>
+            </toc-element>
+            <toc-element topic="Krvomízové.md">
+                <toc-element topic="Chititové.md"/>
+            </toc-element>
+            <toc-element topic="Malpurové.md"/>
+        </toc-element>
+        <toc-element topic="rasy.md"/>
+        <toc-element toc-title="Monstra">
+            <toc-element topic="Trol-červený.md"/>
+            <toc-element topic="Trol-zelený.md"/>
+            <toc-element topic="krel.md"/>
         </toc-element>
     </toc-element>
     <toc-element toc-title="Mytologie">
