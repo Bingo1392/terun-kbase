@@ -8,6 +8,20 @@
     <toc-element topic="terun.md">
         <toc-element topic="bytosti.md"/>
         <toc-element topic="zdroje_bohatstvi.md"/>
+        <toc-element toc-title="Rasy">
+            <toc-element topic="Víly.md">
+                <toc-element topic="Skřítci.md"/>
+                <toc-element topic="Elfové.md"/>
+                <toc-element topic="Permoníci.md"/>
+            </toc-element>
+            <toc-element topic="Lidé.md">
+                <toc-element topic="Populové.md"/>
+                <toc-element topic="Skalové.md"/>
+                <toc-element topic="Kremeni.md"/>
+            </toc-element>
+            <toc-element topic="Hmyzáci.md"/>
+            <toc-element topic="Malpurové.md"/>
+        </toc-element>
         <toc-element topic="rasy.md"/>
         <toc-element toc-title="Náboženství">
             <toc-element topic="senantska_vira.md"/>
@@ -40,38 +54,5 @@
         <toc-element topic="heliria.md"/>
         <toc-element topic="gulemeria.md"/>
         <toc-element topic="dejdenyr.md"/>
-    </toc-element>
-    <toc-element toc-title="Nápady a myšlenky">
-        <toc-element toc-title="Homebrew Dračí Hlídka">
-            <toc-element topic="nulte_sezeni.md"/>
-            <toc-element topic="vyber_rasy.md"/>
-            <toc-element topic="unava.md"/>
-            <toc-element topic="nalozeni.md"/>
-            <toc-element topic="moralka.md"/>
-            <toc-element topic="magicke_predmety.md"/>
-            <toc-element topic="akce_a_situace.md"/>
-            <toc-element topic="uroven_obyvatel.md"/>
-        </toc-element>
-        <toc-element topic="velka-hra.md">
-            <toc-element topic="armady.md"/>
-            <toc-element topic="ekonomie.md"/>
-            <toc-element topic="Střet-armád.md"/>
-        </toc-element>
-        <toc-element toc-title="artefakty">
-            <toc-element topic="astralni_zrcadlo.md"/>
-        </toc-element>
-        <toc-element topic="tvorba_frakce.md"/>
-        <toc-element topic="nova_rasa_nevidenych.md"/>
-        <toc-element topic="frakce.md"/>
-        <toc-element topic="aplikace_pravidel_JaD.md"/>
-        <toc-element topic="aplikace_pravidel_DrH.md"/>
-        <toc-element toc-title="tumerie">
-            <toc-element topic="tumerie.md"/>
-            <toc-element topic="zavrikani.md"/>
-            <toc-element topic="skalove.md"/>
-            <toc-element topic="okleani.md"/>
-            <toc-element topic="korinci.md"/>
-            <toc-element topic="baladorane.md"/>
-        </toc-element>
     </toc-element>
 </instance-profile>

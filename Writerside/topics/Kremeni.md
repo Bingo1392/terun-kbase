@@ -1,0 +1,7 @@
+# Kremeni
+
+Jedná se o rasu lidí, kteří si nechali vytetovat magická tetování, do kterých přijali mladého démona. Démon jim prodlužuje život a propůjčuje magické schopnosti. Jejich fyziologie se za dlouhou dobu změnila tak, že v dospělosti již nejsou schopni přežít bez démona, který přebývá v jejich kůži. V pubertě každý Kremen projde rituálem Šalma Rý, při kterém jsou mu vytetovány magické runy a jiné obrazce na tělo a do kterých přijme svého démona astrálních sfér.
+
+Této symbiózy využívají jiní démoni astrálních sfér. Říkají si Krelové. Krelové jsou démoni, kteří se umí vtělit do jiné bytosti a naprosto převzít nad ní kontrolu. Díky spojení Kremenů a démonů astrálních sfér mají Krelové nad Kremeni určitou moc a jsou schopni je daleko jednodušeji ovlivňovat. Civilizace Kremenů tak stojí na tom, že uctívají Krely jako bohy a vůdce v jednom. Slouží jim jako jejich věrní posluhovači a bojují za ně ve válkách.
+
+Ženy Kremenů mají hlavně úlohu obstarání dětí a domácnosti. Je mezi nimi normální, že jeden mocný Kremen může mít harém několika Kremenek či konkubín. Takový muž může mít desítky potomků. Důsledkem je sociální problém v tom, že na některé Kremeny prostě nevyzbydou ženy. To napomáhá k radikalizaci a soudružnosti se svými bratry. V neposlední řadě také k sexuálním aktivitám mezi muži, které je mezi Kremeny velmi rozšířené a normální.
