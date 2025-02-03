@@ -14,8 +14,8 @@ Krvomíza propůjčuje bytostem, kterým koluje v těle, měnit vlastnosti vlast
 
 ## Zlatokrevci
 
-
+Jedinými zlatokrevnými bytostmi jsou Sénanti. Jejich krev jim propůjčuje moc zkrotit nebezpečnou sílu Éterické many, která jiné bytosti zničí. Navíc jsou Zlatokrevci nezabitelní. Je možné zničit jejich tělesnou schránku, ale není možné zničit jejich duši či manipulovat s jejich vzpomínkami.
 
 ## Černokrevci
 
-
+Černokrevci jsou nečisté bytosti, které vznikly za pomoci magie z jiných bytostí. Duše takové bytosti je zcela zničena a to pro ni znamená určitá omezení. Například některé druhy magie předpokládají existenci duše - taková magie na černokrevce nepůsobí. Nejhorší na tom však je, že po smrti na černokrevce nic nečeká. Jejich duše je zničena a pokud je zničeno i tělo, jejich vědomí přestává existovat. Jedná se vlastně o prokletí.

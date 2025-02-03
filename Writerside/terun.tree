@@ -38,10 +38,10 @@
             <toc-element topic="Malpurové.md"/>
         </toc-element>
         <toc-element topic="rasy.md"/>
-        <toc-element toc-title="Monstra">
+        <toc-element toc-title="Bestiář">
+            <toc-element topic="krel.md"/>
             <toc-element topic="Trol-červený.md"/>
             <toc-element topic="Trol-zelený.md"/>
-            <toc-element topic="krel.md"/>
         </toc-element>
     </toc-element>
     <toc-element toc-title="Mytologie">
