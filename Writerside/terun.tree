@@ -6,7 +6,9 @@
                   start-page="terun.md">
 
     <toc-element topic="terun.md">
-        <toc-element topic="bytosti.md"/>
+        <toc-element topic="bytosti.md">
+            <toc-element topic="Nemrtví.md"/>
+        </toc-element>
         <toc-element topic="Barvy-krve.md"/>
         <toc-element topic="zdroje_bohatstvi.md"/>
         <toc-element toc-title="Náboženství">
