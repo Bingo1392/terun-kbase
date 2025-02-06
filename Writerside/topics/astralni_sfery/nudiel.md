@@ -10,6 +10,8 @@ Přirozenými obyvateli Nudielu jsou upíři, kteří řídí veškerý chod. Up
 
 Když dorazí duše do Nudielu, je nechána na pospas bloudění po pustých horách. Jakmile se setká s některým z poskoků, je zaveden ke svému pánu - jednomu z upířích knížat. Upíří pán poté rozhodne na základě ochutnání esence duše, zda nechá duši projít bránou do Abordey nebo do Vendarielu. Samotné ochutnání esence duše vypadá jako kousnutí do krku duše a ochutnání její krve.
 
+Duše neinteligentních tvorů, jako je například zvěř, se po nějaké době přesunou do sféry pro ně určené. U zmíněné zvěře tedy automaticky do Kanameiry.
+
 Nudiel funguje na základě kosmických principů Stínu a Řádu.
 
 ## Obyvatelé Nudielu
