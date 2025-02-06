@@ -1,5 +1,7 @@
 # Feudální kultura
 
+Feudální kultura je strukturovaná kultura, kde moc mají vlastníci léna (lenní pánové) a ti, kdo mají léno propůjčené. Samotné léno je ve vlastnictví panovníka a vládnoucí šlechty. Ti své léno pomocí titulů propůjčují vyšší šlechtě a ti zase nižší šlechtě. Svobodní občané mohou také vlastnit nějaký majetek, ale ve výsledku se nejedná o vlastnictví jako takové, jako spíše pronájem na mnoho let. Ačkoliv by se mohlo zdát, že vládnoucí šlechta je všemocná, není tomu tak. Vládnoucí šlechta včetně panovníka je závislá na svých vazalech a to jak finančně, tak vojensky.
+
 ## Šlechtické tituly
 
 ### Vládnoucí šlechta

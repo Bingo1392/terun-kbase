@@ -1,5 +1,7 @@
 # Krel
 
+Typ: Démon
+
 ![Krel](krel.png)
 
 Krelové jsou nehmotné entity - démoni astrálních sfér tvoření temnou mlhou. Když nejsou v těle hostitele, jsou schopni přežít v materiální sféře pouze několik hodin.
