@@ -18,7 +18,9 @@ Krampusové, běsové třetí úrovně, představují střední třídu běsovsk
 
 Pekelní princové, běsové páté úrovně, patří k elitě. Jejich moc je ohromná a jejich vzhled často odráží jejich vznešené postavení - jsou majestátní a hrůzostrašní zároveň.
 
-Na samém vrcholu hierarchie stojí arciďáblové, běsové šesté úrovně. Tito nejmocnější z běsů jsou skutečnými vládci Abordey, jejich síla je téměř nepředstavitelná a jejich vzhled vzbuzuje hrůzu i v těch nejstatečnějších duších.
+Téměř na vrcholu hierarchie stojí arciďáblové, běsové šesté úrovně. Tito nejmocnější z běsů jsou skutečnými postrachy Abordey, jejich síla je téměř nepředstavitelná a jejich vzhled vzbuzuje hrůzu i v těch nejstatečnějších duších.
+
+Tomu všemu vládne astrální lord Halis, která drží všechny běsy na uzdě, aby mezi nimi nepropukly války o nadvládu. Pokud by totiž chtěl nějaký Arciďábel zničit državy jiného, musel by dostat povolení od Halis.
 
 Každý stupeň této hierarchie s sebou nese nejen větší moc a privilegia, ale také větší zodpovědnost za udržování řádu v Abordee. Vyšší postavení obvykle znamená také větší sbírky magických předmětů a rozsáhlejší knihovny plné tajemství, což dále posiluje moc těchto bytostí.
 
