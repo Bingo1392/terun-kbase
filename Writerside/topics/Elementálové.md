@@ -15,3 +15,5 @@ Zemní elementál představuje stabilitu a vytrvalost. Je nejodolnější ze vš
 V Helirii tyto bytosti vedou nekonečný tanec střetů a spojenectví. Někdy se elementálové stejného typu spojují do větších entit, jindy mezi sebou bojují o nadvládu nad určitým územím. Jejich války vytváří úchvatné přírodní úkazy - bouře z ohně a ledu, tornáda plná kamení, nebo vlny země valící se jako voda.
 
 Zajímavé je, že přestože jsou elementálové v neustálém konfliktu, jejich boj je paradoxně tím, co udržuje Helirii v rovnováze. Kdyby jeden element získal převahu, celý svět by se zhroutil do chaosu.
+
+Elementálové nemají inteligenci nebo přesvědčení. Jsou to projevy přírodních sil, které se nakonec vždy vrátí do rovnováhy. Zničením elementála se kromě oslabení vlivu elementu v oblasti vlastně nic nestane. Nejedná se o bytost s duší ani s agendou.
