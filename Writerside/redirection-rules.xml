@@ -82,4 +82,16 @@
         <description>Created after removal of "Hmyzáci" from Svět Térun</description>
         <accepts>Hmyzáci.html</accepts>
     </rule>
+    <rule id="9cd0e87">
+        <description>Created after removal of "Rudokrevci" from Svět Térun</description>
+        <accepts>Rudokrevci.html</accepts>
+    </rule>
+    <rule id="4bfd3e4">
+        <description>Created after removal of "Manakrevci" from Svět Térun</description>
+        <accepts>Manakrevci.html</accepts>
+    </rule>
+    <rule id="160536de">
+        <description>Created after removal of "Krvomízové" from Svět Térun</description>
+        <accepts>Krvomízové.html</accepts>
+    </rule>
 </rules>
