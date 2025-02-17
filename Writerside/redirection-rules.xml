@@ -94,4 +94,8 @@
         <description>Created after removal of "Krvomízové" from Svět Térun</description>
         <accepts>Krvomízové.html</accepts>
     </rule>
+    <rule id="59a145cf">
+        <description>Created after removal of "Barvy krve" from Svět Térun</description>
+        <accepts>Barvy-krve.html</accepts>
+    </rule>
 </rules>
