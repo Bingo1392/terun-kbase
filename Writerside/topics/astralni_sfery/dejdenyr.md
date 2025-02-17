@@ -28,14 +28,8 @@ Utecht se o dění v subsférách Dejdenyru moc nezajímá. Celé věky tráví 
 
 Jako každý z Astrálních lordů na sebe může Utecht vzít jakoukoliv podobu. Je však zobrazována jako žena s prostým šatem a rozčepýřenými vlasy.
 
-### Zrůdy astrálních sfér
-
-Zrůd může být nepřeberné množství, nepřeberných tvarů a životních forem. Mohou být neškodné a nebo velmi nebezpečné.
-
-Při zaklínání démonů do předmětů se může k rituálu připlést i zrůda a projít tak do materiální sféry. To je nebezpečné pro všechny zúčastněné.
-
 ### Démoni astrálních sfér
 
-Démonů existuje mnoho druhů. Sami o sobě nemusí být nebezpeční. Jejich největší užitek je, když jsou zakleti do predmětů a tím mohou předmětům propůjčovat magické shopnosti.
+Démonů existuje mnoho druhů. Sami o sobě nemusí být nebezpeční, ale většinou jsou. Jejich největší užitek je, když jsou zakleti do predmětů a tím mohou předmětům propůjčovat magické shopnosti.
 
-Démoni nemají přirozenou podobu nebo tělo. Jsou to neviditelné entity, které se mohou nějak magicky projevovat a tím mít vliv na své okolí. K tomu, aby mohl démon zůstat v materiální sféře potřebuje schránku, do které je zaklet. Pokud je schránka zničena a démon nemá kam jinam by se uchýlil, vrací se zpět do své domovské subsféry do Dejdenyru.
+Démoni mohou mít různé podoby - fyzické či éterické. Jsou to entity, které se mohou nějak magicky projevovat a tím mít vliv na své okolí. K tomu, aby mohl démon zůstat v materiální sféře potřebuje schránku, do které je zaklet, případně se může na chvíli zhmotnit. Pokud je schránka zničena a démon nemá kam jinam by se uchýlil, vrací se zpět do své domovské subsféry do Dejdenyru.
