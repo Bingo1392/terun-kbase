@@ -76,12 +76,12 @@ Vendariel je jakýmsi nebem. Když je duše hodna Vendarielu, přichází sem ma
 
 * Halis paní touhy, neřesti a utrpení
 * Aspekt neřesti, podvodů, intrikaření, zrady, utrpení, touhy, pýchy, trestu, mučení.
-* Ďáblové
+* Běsové
 * Princip Chaosu a Stínu
 
 Abordea je světem, kde vybraní mohou naplňovat své touhy a neřesti, nicméně pro většinu se jedná o místo plné utrpení. Do Abordey míří duše, které si zaslouží trpět na věky.
 
-Na Abordee žijí ďáblové v pevné hierarchii, kteří naplňují své touhy a touhy svých obětí. Úlohou ďáblů je získat tužby svých obětí a pomoci jim je dosáhnout - a to klidně i obecně zakázanými prostředky. Ďáblové si postupně budují vztah se svými oběťmi aby s nimi postupně podepsali smlouvu, kde oběť odevzdá ďáblovi svojí duši. Taková duše je následně vzata do Abordey, kde je mučena a postupem času přeměněna na nového ďábla. Tím ďábel ztratí svoji duši a stane se součástí sféry. Ďábly není možné zabít jiným způsobem, než v Abordee - z ostatních sfér je možné je pouze vypudit. Na Abordee není možné, aby duše zemřela. Taková duše znovu povstane, aby mohla být znovu mučena.
+Na Abordee žijí běsové v pevné hierarchii, kteří naplňují své touhy a touhy svých obětí. Úlohou běsů je získat tužby svých obětí a pomoci jim je dosáhnout - a to klidně i obecně zakázanými prostředky. Běsové si postupně budují vztah se svými oběťmi aby s nimi postupně podepsali smlouvu, kde oběť odevzdá běsovi svojí duši. Taková duše je následně vzata do Abordey, kde je mučena a postupem času přeměněna na nového běsa. Tím oběť ztratí svoji duši a stane se součástí sféry - novým běsem. Běsy není možné zabít jiným způsobem, než v Abordee - z ostatních sfér je možné je pouze vypudit. Na Abordee není možné, aby duše zemřela. Taková duše znovu povstane, aby mohla být znovu mučena.
 
 ## Kanameira věčné loviště
 
@@ -125,9 +125,9 @@ Osud je nejstarší ze všech Astrálních lordů. To osud určil, jaké úlohy 
 
 * Utecht paní vyšší dimenze
 * Aspekt nepoznaného, tajemství, nepochopení, záhady, monstrozity.
-* Zrůdy a Démoni.
+* Démoni.
 * Princip Chaosu a Arkány.
 
-Mnohovesmírná sféra je sféra, kde může kolidovat několik naprosto bizardních světů do sebe. Neexistují zde jasné zákony, respektive zde neexistují pravidla jednoduše pobratelné bytostmi žijícími v trojrozměrném prostoru. Jelikož jsou mnohosvěty bizardními místy, žijí zde i bizardní stvoření. Jejich úloha je nejasná - většinou zde prostě žijí a je jim dopřán nějaký podivný ekosystém fauny a flory. Jednotlivé kolidující světy a jejich zákony bývají výtvorem samotné Utecht či následkem působení bytostí zvaných démoni astrálních sfér. Když se dostane duše do některého ze světů mnohovesmíru, Utecht to většinou nezajímá a záleží na podstatě prostředí jestli duše přežije či nikoliv. Pokud však nepřežije, objeví se v Nudielu, jakoby její tělo zemřelo v materiální sféře. Zrůdy z mnohovesmíru nemají duši a když zahynou, jsou prostě zničeny.
+Mnohovesmírná sféra je sféra, kde může kolidovat několik naprosto bizardních světů do sebe. Neexistují zde jasné zákony, respektive zde neexistují pravidla jednoduše pobratelné bytostmi žijícími v trojrozměrném prostoru. Jelikož jsou mnohosvěty bizardními místy, žijí zde i bizardní stvoření. Jejich úloha je nejasná - většinou zde prostě žijí a je jim dopřán nějaký podivný ekosystém fauny a flory. Jednotlivé kolidující světy a jejich zákony bývají výtvorem samotné Utecht či následkem působení bytostí zvaných démoni astrálních sfér. Když se dostane duše do některého ze světů mnohovesmíru, Utecht to většinou nezajímá a záleží na podstatě prostředí jestli duše přežije či nikoliv. Pokud však nepřežije, objeví se v Nudielu, jakoby její tělo zemřelo v materiální sféře.
 
 Mnohovesmír je formován kromě samotné Utecht i bytostmi zvanými démoni astrálních sfér. Tito démoni mohou projevovat různou dávku inteligence. Každý z nich může mít i jinou motivaci a jiný cíl. Démoni jsou alchymisty vyhledávané bytosti. Alchymisté dokáží lapit démony do předmětu. Tyto předměty pak získají magické schopnosti, které jsou propůjčené démonem.

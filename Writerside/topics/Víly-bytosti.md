@@ -1,3 +1,3 @@
-# Víly (rasy)
+# Víly (bytosti)
 
 Start typing here...

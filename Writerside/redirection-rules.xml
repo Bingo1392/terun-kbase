@@ -98,4 +98,12 @@
         <description>Created after removal of "Barvy krve" from Svět Térun</description>
         <accepts>Barvy-krve.html</accepts>
     </rule>
+    <rule id="2cc8326a">
+        <description>Created after removal of "Malpurové" from Svět Térun</description>
+        <accepts>Malpurové.html</accepts>
+    </rule>
+    <rule id="adab0aa">
+        <description>Created after removal of "Chititové" from Svět Térun</description>
+        <accepts>Chititové.html</accepts>
+    </rule>
 </rules>

@@ -8,11 +8,7 @@ Astrálním lordem sféry Istriel je Oryn - pán snů. To on vytvořil tuto sfé
 
 Přirozenými obyvateli snové sféry Istriel jsou víly. Víly dokáží putovat mezi sny a ovlivňovat jejich realitu. Některé víly pomáhají vytvářet krásné sny, jiné noční můry.
 
-Víly vznikají díky stromu duší. Jedná se o velký strom, který plodí zářicí žaludy či šišky. To záleží na druhu stromu. Pro každý typ víly se jedná o jiný strom duší. Tento plod je nutné za specifických podmínek umístit na srdce ze dřeva vyřezané bytosti. Po nějaké době se bytost promění v bytost z masa a kostí. Následně ožije. Víly tedy nemají děti - jsou vždy dospělí a tak, jak jsou vyřezaní, tak budou vypadat do skonání všech dní.
-
-Víly tedy nestárnou a nemohu zemřít přirozenou smrtí.
-
-Dostat se do sféry Istriel je velmi jednoduché, stačí usnout. Ne každý spánek je bohatý na sny, ale existuje dobrá šance, že se duše bytosti do této sféry dostane. Co je opravdu těžké, je mezi jednotlivými sny cestovat. Toto umí pouze víly a samozřejmě i Oryn - pán sféry. Pokud se duši něco ve sféře stane většinou se okamžitě vrátí zpět do fyzického těla a bytost se probudí.
+Dostat se do sféry Istriel je velmi jednoduché, stačí usnout. Ne každý spánek je bohatý na sny, ale existuje dobrá šance, že se duše bytosti do této sféry dostane. Co je opravdu těžké, je mezi jednotlivými sny cestovat. Toto umí pouze Istrielské víly a samozřejmě i Oryn - pán sféry. Pokud se duši něco ve sféře stane většinou se okamžitě vrátí zpět do fyzického těla a bytost se probudí.
 
 Istiel vznik na základě kosmických principů Arkány a Přírody.
 
@@ -46,23 +42,17 @@ Jejich úlohou je inscenovat šprýmové sny, ve kterých cílem srandy bývá s
 
 Satirové vypadají jako chlupatí lidé s rohy na hlavě a kopyty místo nohou.
 
-### Dryáda
+### Snový Elf
 
-Dryády tvoří sny hlavně pro zvířata. Některé Dryády rády tvoří krásné sny plné hojnosti potravy a zvěře, jiné dělají sny plné smrti způsobené predátory či hladověním.
+Snoví elfové mají na starosti většinu snů všech bytostí. Rádi zobrazují realitu, ale i představy, kde by chtěli snící být a tak podpořit jejich touhu k dosažení těchto cílů.
 
-Dryády jsou humanoidní bytosti podobné krásným lidským ženám, ale mají zelenou kůži a dokáží procházet skrze stromy či se stát součástí stromu.
+Snoví elfové vypadají podobně jako lidé, ale mají špičaté uši, dlouhé rovné vlasy a jsou mírně drobnější postavy.
 
-### Elf
-
-Elfové mají na starosti většinu snů inteligentních a dospělých bytostí. Rádi zobrazují realitu, ale i představy, kde by chtěli snící být a tak podpořit jejich touhu k dosažení těchto cílů.
-
-Elfové vypadají podobně jako lidé, ale mají špičaté uši, dlouhé rovné vlasy a jsou mírně drobnější postavy.
-
-Pokud je nějakým způsobem narušena sféra Istriel, jsou to právě oni, kdo budou tuto sféru chránit před vetřelci. Většina elfů žije ve vznášejícím se městě Kalabul, které je středem Istrielu.
+Pokud je nějakým způsobem narušena sféra Istriel, jsou to právě oni, kdo budou tuto sféru chránit před vetřelci. Většina Snových elfů žije ve vznášejícím se městě Kalabul, které je středem Istrielu.
 
 ### Ježibaba / Ježidědek
 
-Ježibaby či Ježidědkové jsou elfové, kteří se rozhodli rozdávat pouze noční můry. Jsou škaredí, staří a často blázniví. Vyžívají se v utrpení ostatních a to na nich zanechalo viditelné pokřivení. Když se snů snícího zmocní ježibaba či ježidědek, nebývá to pro snícího nic dobrého.
+Ježibaby či Ježidědkové jsou Snoví elfové, kteří se rozhodli rozdávat pouze noční můry. Jsou škaredí, staří a často blázniví. Vyžívají se v utrpení ostatních a to na nich zanechalo viditelné pokřivení. Když se snů snícího zmocní ježibaba či ježidědek, nebývá to pro snícího nic dobrého.
 
 Zlé Ježibaby nebo Ježidědkové jsou ti, kteří stvořili zlé bytosti zvané jako Nevidění. Tyto bytosti jsou pouze energetické neviditelné entity, které se přichytí k mysli jiné bytosti a jsou schopné tuto bytost zahubit skrze její mysl.
 
