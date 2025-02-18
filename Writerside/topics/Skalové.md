@@ -1,16 +1,107 @@
 # Skalové
 
-Skalové jsou divočinou ošlehaným surovým rodem lidí, který si zvykl na drsný život mimo civilizaci. Tvoří spolu společenství, žijí v klanech, bojují mezi sebou a s přírodou, která je obklopuje či drancují civilizovaná království.
+## Původ a charakteristika
+Skalové (také zvaný lid divočiny) představují drsnou a nespoutanou odnož lidské rasy, která se adaptovala na život v nehostinných podmínkách mimo dosah civilizace. Jejich kultura je formována neustálým bojem o přežití, ať už s přírodními živly nebo okolními národy.
 
-Skalové si nade vše cení hrdinství a velmi rádi si mezi sebou vyprávějí příběhy o hrdinských skutcích svých otců, dědů a vůdcích.
+## Společenská struktura
 
-Ženy skalů jsou více nezávislé na můžích, než populské ženy. Některé dokonce vyráží na válečná tažení jako válečnice a bojují po boku mužů.
+### Klanové uspořádání
+Základní jednotkou skalské společnosti je klan:
+- Silné rodinné vazby napříč generacemi
+- Společné vlastnictví zdrojů
+- Kolektivní rozhodování o důležitých záležitostech
+- Vzájemná ochrana a podpora členů klanu
 
-Skalové často věří v různé kulty padlých sénantů. Některé oblasti jsou však věrné slunečnímu či měsíčnímu zirkulu.
+### Role žen
+Na rozdíl od jiných lidských kultur, ženy Skalů požívají značnou nezávislost:
+- Možnost účastnit se válečných tažení
+- Rovnocenné postavení v boji
+- Větší míra samostatnosti v rozhodování
+- Respektované postavení v rámci klanu
 
-Ostatní rasy se na Skaly někdy dívají s despektem kvůli tomu, jak zacházejí
-s ostatky svých předků. Skalové totiž věří, že jejich předkové jsou ti, kdo jim poskytuje jejich duchovní spojení s bohy. Kosti předků pak představují spojení jak spirituální tak i fyzické. Žádný slušný Skal by se nenechal zastihnout bez kostí svých nejvýznamnějších strýců, babiček, dědečků. A každý Skal, co za něco stojí, se snaží, aby i jeho kosti byly jednou uctívány. Kvůli tomu mají Skalové tendenci občas až nepřiměřeně riskovat a ostatní
-se k nim proto můžou chovat přezíravě.
+## Kulturní aspekty
+
+### Hrdinská tradice
+Skalové kladou mimořádný důraz na hrdinství a jeho oslavování:
+- Pravidelné vyprávění příběhů o hrdinských činech
+- Předávání legend z generace na generaci
+- Uctívání slavných válečníků a vůdců
+- Motivace k odvážným skutkům
+
+### Kult předků
+Unikátní a kontroverzní aspekt skalské kultury je jejich vztah k předkům:
+
+#### Duchovní význam
+- Předkové jako prostředníci mezi živými a bohy
+- Kosti jako fyzické spojení s duchovním světem
+- Víra v přenos síly a moudrosti skrze ostatky
+- Rituální uctívání předků
+
+#### Praktiky
+- Nošení kostí významných předků
+- Rituály spojené s ostatky
+- Snaha o dosažení "památného" úmrtí
+- Ochrana a péče o kosterní pozůstatky
+
+### Náboženství
+Náboženský život Skalů je rozmanitý:
+- Dominance kultů padlých sénantů
+- Místní variace slunečního a měsíčního zirkulu
+- Silný důraz na spirituální spojení s předky
+- Šamanistické praktiky
+
+## Způsob života
+
+### Válečnictví
+Boj je nedílnou součástí skalské kultury:
+- Nájezdy na civilizovaná území
+- Meziklanové konflikty
+- Obranné boje proti vetřelcům
+- Rituální souboje
+
+### Přežití v divočině
+Skalové vyvinuli mimořádné schopnosti pro život v drsných podmínkách:
+- Znalost přírodních zdrojů
+- Lovecké a sběračské dovednosti
+- Odolnost vůči nepřízni počasí
+- Schopnost přežít v extrémních podmínkách
+
+## Vztah s ostatními rasami
+
+### Konfliktní vztahy
+Interakce s jinými rasami jsou často napjaté:
+- Časté nájezdy na civilizovaná území
+- Kulturní nepochopení
+- Předsudky kvůli zacházení s ostatky
+- Vzájemná nedůvěra
+
+### Obchodní vztahy
+Navzdory konfliktům existují i ekonomické vazby:
+- Výměna vzácných surovin
+- Obchod s kožešinami a minerály
+- Příležitostné spojenectví
+- Najímání skalských bojovníků
+
+## Budoucí perspektivy
+Skalové čelí několika výzvám:
+- Tlak civilizace na jejich území
+- Nutnost adaptace na měnící se svět
+- Zachování kulturních tradic
+- Vyrovnání se s modernizací
+
+## Charakteristické rysy jednotlivce
+
+### Fyzické vlastnosti
+- Robustní tělesná konstituce
+- Vysoká odolnost vůči nepřízni počasí
+- Přirozená fyzická síla
+- Vytrvalost v náročných podmínkách
+
+### Mentální charakteristiky
+- Silný smysl pro čest
+- Oddanost klanovým tradicím
+- Odvaha hraničící s nerozvážností
+- Hluboká spiritualita spojená s předky
 
 ## Jméno a vzhled
 Vyber z každého řádku jedno nebo si vymysli vlastní:

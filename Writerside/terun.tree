@@ -25,6 +25,8 @@
         </toc-element>
         <toc-element toc-title="Kultury">
             <toc-element topic="Feudální.md"/>
+            <toc-element topic="Klanová-kultura.md"/>
+            <toc-element topic="Teokratická-kultura.md"/>
         </toc-element>
         <toc-element topic="rasy.md">
             <toc-element topic="Lidé.md">
