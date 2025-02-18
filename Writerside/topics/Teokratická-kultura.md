@@ -1,4 +1,12 @@
-# Teokratická kultura
+# Kremenská teokratická kultura
+
+Kremenská teokratická kultura je založena na tom, že panovník je zároveň božstvem. Jedná se tedy o druh vlády, rozdělení společnosti a náboženství v jednom.
+
+## Vládnoucí vrstva - Krelové
+
+Faraon
+
+Vezír
 
 Třídy společnosti:
 - Panovník - nesmrtelný bůh, který jednou za čas vymění starého Kremena za nového Kremena. Panovník může Monarchu odvolat a zničit.

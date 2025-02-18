@@ -47,6 +47,10 @@ Tento proud věřících ctí nápravu a druhou šanci. Měsíční zirkul není
 ### Sluneční zirkul
 Vyznavači Slunečního zirkulu jsou ve svém přesvědční silní a neexistuje pro ně kompromis. Jedná se o radikálnější verzi sénantské víry, která neodpouští.
 
+## Kultura
+
+Kultura Populů je založena na Feudálních principech.
+
 ## Vztahy s ostatními rasami
 Přestože jsou Populové dominantní rasou, jejich vztahy s ostatními rasami jsou komplexní:
 - Často vystupují jako kolonizátoři
